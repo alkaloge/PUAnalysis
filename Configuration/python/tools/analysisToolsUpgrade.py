@@ -452,7 +452,8 @@ def correctJetsUpgrade(process, isData = False, src = "slimmedJets"):
                                                           label  = cms.untracked.string('AK4PFPuppi')
                                                           )
                                                  ), 
-                               connect = cms.string('sqlite:////'+cmssw_base+'/src/PUAnalysis/Configuration/data/'+JECTag+'.db')
+                               #connect = cms.string('sqlite:////'+cmssw_base+'/src/PUAnalysis/Configuration/data/'+JECTag+'.db')
+                               connect = cms.string('sqlite_file:'+JECTag+'.db')
                                )
    
      ## add an es_prefer statement to resolve a possible conflict from simultaneous connection to a global tag

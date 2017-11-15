@@ -1,8 +1,10 @@
 import FWCore.ParameterSet.Config as cms
+import sys
+print("The system path in the config file ",sys.path)
 
 process = cms.Process("ANALYSIS")
 process.load('Configuration.StandardSequences.FrontierConditions_GlobalTag_condDBv2_cff')
-
+#Connection on "sqlite://///uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/Configuration/data/PhaseIISummer16_25nsV3_MC.db" cannot be established
 process.GlobalTag.globaltag = '91X_upgrade2023_realistic_v2'
 
 process.options   = cms.untracked.PSet(wantSummary = cms.untracked.bool(False))
@@ -21,7 +23,8 @@ process.MessageLogger.cerr.FwkReport.reportEvery = 10
 process.source = cms.Source("PoolSource",
     fileNames = cms.untracked.vstring(
         #'file:/hdfs/store/user/ymaravin/2017_Aug04_DYJetsToLL_M-50_PU200-SUB/SUB-022EEFB6-B058-E711-9A19-0025907B50E4.root'
-        'file:/hdfs/store/user/ymaravin/CRAB/DYJetsToLL_M-50_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/crab_job_phase2_DYJetsToLL_test/170724_102227/0000/step4_1.root'
+        #'file:/hdfs/store/user/ymaravin/CRAB/DYJetsToLL_M-50_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/crab_job_phase2_DYJetsToLL_test/170724_102227/0000/step4_1.root'
+        'file:/store/mc/PhaseIITDRFall17MiniAOD/VBFHToTauTau_M125_14TeV_powheg_pythia8/MINIAODSIM/PU200_93X_upgrade2023_realistic_v2-v1/30000/5C1EE4AA-38C0-E711-9A67-7845C4F932B1.root'
         #'file:/hdfs/store/user/ymaravin/2017_Aug04_DYJetsToLL_M-50_PU200-SUB/SUB-0215E0C6-3758-E711-9095-F02FA768CF8A.root',
         #'file:/hdfs/store/user/ymaravin/2017_Aug04_DYJetsToLL_M-50_PU200-SUB/SUB-02174737-675E-E711-BDA3-782BCB539695.root',
         #'file:/hdfs/store/user/ymaravin/2017_Aug04_DYJetsToLL_M-50_PU200-SUB/SUB-022EEFB6-B058-E711-9A19-0025907B50E4.root',
