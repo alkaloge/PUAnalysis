@@ -71,7 +71,8 @@ relaxedSelection='pt_2>20&&npv>0&&iso_04>0.15&&iso_04<0.3&&tauIsoLoose>0.5'
 luminosity=100000 #pb
 
 #direc='/scratch/ojalvo/Htt_Sep22_200PU/'
-direc='/scratch/ojalvo/Htt_Oct6_200PU/'
+#direc='/scratch/ojalvo/Htt_Oct6_200PU/'
+direc='/eos/uscms/store/user/samuellh/forIsobel/'
 datadirec=$direc
 zttScale=1.0
 topWeight=1.0

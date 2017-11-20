@@ -56,12 +56,12 @@ relaxedSelection='pt_2>20&&npv>0&&iso_04>0.15&&iso_04<0.3&&tauIsoLoose>0.5'
 luminosity=100000 #pb
 
 #direc='/scratch/ojalvo/Htt_Sep22_200PU/'
-direc='/scratch/ojalvo/Htt_Oct6_200PU/'
+direc='/eos/uscms/store/user/samuellh/forIsobel/'
 datadirec=$direc
 zttScale=1.0
 topWeight=1.0
 zWeight=1.0
-qcdfactor=1.0
+qcdfactor=0.002 #1.0
 topSF=1.
 bins=30
 #DYJets.root  ggH125.root  QCD.root  ttBar.root vbfH125.root
@@ -72,4 +72,4 @@ mkdir diTauPlots
 outputDir='diTauPlots'
 mkdir $outputDir
 
-MakeDataCardUpgrade channel='diTau' dataFile='none.root' qcdFile=$direc'QCD.root' zttFile=$direc'DYJets.root' zllFile=$direc'DYJets.root' wFile=$direc'WJETS.root' vvFile=$direc'DiBoson.root' topFile=$direc'ttBar.root' preselection=$preselectionVBF  wselection=$signalelection relaxedSelection=$signalSelection  signalselection=$signalselection   luminosityErr=0.045 qcdfactor=1 qcdfactorErr=0.02 vvErr=0.3   zttScale=$zttScale zttScaleErr=0.033    wFactorErr=0.06    zjfterr=0.1  zlfterr=0.24   topErr=0.075 topSF=$topSF 	muID=1.00 muIDErr=0.01 eleID=0.0 eleIDErr=0.0 tauID=1.0 tauIDErr=0.06  dir=$direc''  bID=1.0  bIDErr=0.10  bMisID=1.0  bMisIDErr=0.17    bitmask=1,0,0,0 TTweight='1' Zweight='1' weight='__WEIGHT__'  luminosity=$luminosity preselectionShape=$preselectionVBFShape  qcdYieldLooseselection=$qcdYieldLooseselectionVBF qcdShapeLooseselection=$qcdShapeLooseselectionVBF qcdShapeTightselection=$qcdShapeTightselectionVBF variable='m_vis' bins=20 min=0 max=200 outputFile='diTauPlots/diTau_m_vis.root'  
+MakeDataCardUpgrade channel='diTau' dataFile='none.root' qcdFile=$direc'QCD.root' zttFile=$direc'DYJets.root' zllFile=$direc'DYJets.root' wFile=$direc'WJETS.root' vvFile=$direc'DiBoson.root' topFile=$direc'ttBar.root' preselection=$preselectionVBF  wselection=$signalelection relaxedSelection=$signalSelection  signalselection=$signalselection   luminosityErr=0.045 qcdfactor=0.002 qcdfactorErr=0.02 vvErr=0.3   zttScale=$zttScale zttScaleErr=0.033    wFactorErr=0.06    zjfterr=0.1  zlfterr=0.24   topErr=0.075 topSF=$topSF 	muID=1.00 muIDErr=0.01 eleID=0.0 eleIDErr=0.0 tauID=1.0 tauIDErr=0.06  dir=$direc''  bID=1.0  bIDErr=0.10  bMisID=1.0  bMisIDErr=0.17    bitmask=1,0,0,0 TTweight='1' Zweight='1' weight='__WEIGHT__'  luminosity=$luminosity preselectionShape=$preselectionVBFShape  qcdYieldLooseselection=$qcdYieldLooseselectionVBF qcdShapeLooseselection=$qcdShapeLooseselectionVBF qcdShapeTightselection=$qcdShapeTightselectionVBF variable='m_vis' bins=20 min=0 max=200 outputFile='diTauPlots/diTau_m_vis.root'  

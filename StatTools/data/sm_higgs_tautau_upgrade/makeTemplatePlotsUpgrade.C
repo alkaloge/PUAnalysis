@@ -6,7 +6,7 @@
    //makeLTauStack("~/www/Research/muTau_m_vis","muTauPlots/muTau_m_vis.root","mt_inclusive",0,"visible mass","GeV",false,"#tau_{#mu}#tau_{h}","Golden",true,false,true);
 
    //diTauPlots_VBF/tauTau_decayMode_1.root
-   TString outFile = "~/www/htt_upgrade_VBF_Oct23_col2/";
+   TString outFile = "~/www/htt_upgrade_VBF_Nov19/";
    TString inFile = "diTauPlots_VBF/";
    makeDiTauStack(outFile+"diTau_mvis_vbf",inFile+"tauTau_m_vis.root","tt_vbf",3,"m_{vis}","GeV",false,"#tau_{h}#tau_{h}","Golden",false,false,true);
 
@@ -55,7 +55,7 @@
    makeDiTauStack(outFile+"diTau_njets",inFile+"tauTau_njets.root","tt_vbf",3,"NJETS","",false,"#tau_{h}#tau_{h}","Golden",false,false,true);
 
 
-   outFile = "~/www/htt_upgrade_VBF_MTD_Oct23_col2/";
+   outFile = "~/www/htt_upgrade_VBF_MTD_Nov19/";
    inFile = "diTauPlots_VBF_MTD/";
    makeDiTauStack(outFile+"diTau_mvis_vbf",inFile+"tauTau_m_vis.root","tt_vbf",3,"m_{vis}","GeV",false,"#tau_{h}#tau_{h}","Golden",false,false,true);
    makeDiTauStack(outFile+"diTau_decayMode_2",inFile+"tauTau_decayMode_2.root","tt_vbf",3,"decayMode_2","",false,"#tau_{h}#tau_{h}","Golden",false,false,true);
