@@ -1,0 +1,313 @@
+('The system path in the config file ', ['/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1707.patch1/bin', '/uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/python', '/uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/lib/slc6_amd64_gcc630', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/cmssw/CMSSW_9_3_2/python', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/cmssw/CMSSW_9_3_2/lib/slc6_amd64_gcc630', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/coral/CORAL_2_3_21-ghjeda6/slc6_amd64_gcc630/python', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/coral/CORAL_2_3_21-ghjeda6/slc6_amd64_gcc630/lib', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/professor2/2.2.1-ghjeda6/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/pyqt/4.11.4-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/sherpa/2.2.4-ghjeda/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/rivet/2.5.2-ghjeda4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python-ldap/2.4.10-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-matplotlib/1.5.2-njopjo/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/sip/4.17-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/llvm/4.0.0-njopjo/lib64/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-sqlalchemy/1.1.4-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-lint/0.25.1-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-dxr/1.0-ghjeda6/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-cx-oracle/5.2.1-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-numpy/1.12.1-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/frontier_client/2.8.20-mlhled2/python/lib', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/das_client/v03.01.00-mlhled2/bin', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/xrootd/4.6.1/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/yoda/1.6.5-ghjeda4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/lcg/root/6.10.04-ghjeda/lib', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/pyminuit2/0.0.1-ghjeda4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-PyYAML/3.11-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-pygithub/1.23.0-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-pip/9.0.1-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-dablooms/0.9.1-mlhled2/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-pippkgs_depscipy/3.0-ghjeda6/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-pippkgs/5.0-ghjeda6/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/professor/1.4.0-ghjeda4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/dbs-client/DBS_2_1_9-mlhled2/lib', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/cms/dbs-client/DBS_2_1_9-mlhled2/lib/DBSAPI', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/cvs2git/5419-mlhled2/lib', '/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1707.patch1/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/dbs3-client/3.4.4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/dbs3-pycurl-client/3.4.4/lib/python2.7/site-packages', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-sqlalchemy/1.1.4-mlhled2/lib/python2.7/site-packages/SQLAlchemy-1.1.4-py2.7-linux-x86_64.egg', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/py2-numpy/1.12.1-mlhled2/lib/python2.7/site-packages/numpy-1.12.1-py2.7-linux-x86_64.egg', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python27.zip', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7/plat-linux2', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7/lib-tk', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7/lib-old', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7/lib-dynload', '/cvmfs/cms.cern.ch/slc6_amd64_gcc630/external/python/2.7.11-mlhled2/lib/python2.7/site-packages', '/uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26'])
+ ##################################################################### 
+ # WARNING: the module CondCore.DBCommon.CondDBSetup is deprecated.  # 
+ # Please import CondCore.CondDB.CondDB_cfi                          # 
+ ##################################################################### 
+recorrecting the jets
+List Of Filters
+['processedEvents', 'initialEventsTT', 'DiMuonCreation', 'AtLeastOneDiTau', 'TTTauPtEta', 'TTTauDecayFound', 'TTTauStandardDecayFound', 'TTTauDRSel', 'TTSync', 'TTAntiEle', 'TTAntiMu', 'TTIso', 'TTOS']
+DEBUG 2017-11-15 07:25:16,402: 	 Executing command: 'submit'
+DEBUG 2017-11-15 07:25:16,403: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2017-11-15 07:25:16,411: 	 Checking credentials
+DEBUG 2017-11-15 07:25:16,411: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 07:25:16,411: 	 Getting proxy life time left
+DEBUG 2017-11-15 07:25:16,514: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 83367
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:16,617: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 83366
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:16,618: 	 Proxy valid for 23:09:27 hours
+INFO 2017-11-15 07:25:16,618: 	 Will use CRAB configuration file crab3_TT_MC.py
+DEBUG 2017-11-15 07:25:16,618: 	 Loading CRAB configuration file.
+DEBUG 2017-11-15 07:25:16,625: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2017-11-15 07:25:16,742: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:16,742: 	 Checking credentials
+DEBUG 2017-11-15 07:25:16,742: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 07:25:16,743: 	 Getting proxy life time left
+DEBUG 2017-11-15 07:25:16,846: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 83367
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:16,949: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 83366
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:16,950: 	 Proxy valid for 23:09:27 hours
+DEBUG 2017-11-15 07:25:17,053: 	 Executing : 
+ command : env X509_USER_PROXY=/tmp/x509up_u52190 voms-proxy-info -fqan
+ output : /cms/Role=NULL/Capability=NULL
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:18,796: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2017-11-15 07:25:18,904: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:18,905: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2017-11-15 07:25:18,905: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2017-11-15 07:25:19,709: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 431:58:22  (18.0 days)
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:25:19,710: 	 Myproxy is valid: 1555102
+DEBUG 2017-11-15 07:25:19,711: 	 Command use: submit
+DEBUG 2017-11-15 07:25:19,711: 	 Options use: ['-c', 'crab3_TT_MC.py']
+DEBUG 2017-11-15 07:25:21,346: 	 CRABClient version: 3.3.1707.patch1
+DEBUG 2017-11-15 07:25:21,346: 	 Instance is prod
+DEBUG 2017-11-15 07:25:21,346: 	 Server base url is cmsweb.cern.ch
+DEBUG 2017-11-15 07:25:21,346: 	 Command url /crabserver/prod/workflow
+DEBUG 2017-11-15 07:25:21,346: 	 Started submission
+DEBUG 2017-11-15 07:25:21,346: 	 Working on /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516
+DEBUG 2017-11-15 07:25:23,231: 	 Loading required information from the environment
+DEBUG 2017-11-15 07:25:23,231: 	 Found CMSSW_9_3_2 for slc6_amd64_gcc630 with base /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2
+DEBUG 2017-11-15 07:25:23,231: 	 Loading required information from the environment
+DEBUG 2017-11-15 07:25:23,231: 	 Found CMSSW_9_3_2 for slc6_amd64_gcc630 with base /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2
+DEBUG 2017-11-15 07:25:23,247: 	 UNIQUE NAME: tarUUID 95089a0c-18ca-4fe4-bb5f-e4ba82552d0f 
+DEBUG 2017-11-15 07:25:23,247: 	 self.config: from WMCore.Configuration import Configuration
+config = Configuration()
+config.section_('General')
+config.section_('JobType')
+config.JobType.psetName = '../../../TT-MC-Up.py'
+config.JobType.pluginName = 'Analysis'
+config.JobType.inputFiles = ['../../../Configuration/data/PhaseIISummer16_25nsV3_MC.db']
+config.JobType.outputFiles = ['analysis.root']
+config.JobType.allowUndistributedCMSSW = True
+config.section_('Data')
+config.Data.inputDataset = '/SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM'
+config.Data.unitsPerJob = 1
+config.Data.publication = False
+config.Data.inputDBS = 'global'
+config.Data.splitting = 'FileBased'
+config.section_('Site')
+config.Site.storageSite = 'T3_US_FNALLPC'
+config.section_('User')
+config.section_('Debug')
+
+DEBUG 2017-11-15 07:25:23,247: 	 self.config.JobType.psetName: ../../../TT-MC-Up.py
+INFO 2017-11-15 07:25:23,248: 	 Importing CMSSW configuration ../../../TT-MC-Up.py
+INFO 2017-11-15 07:25:25,839: 	 Finished importing CMSSW configuration ../../../TT-MC-Up.py
+DEBUG 2017-11-15 07:25:25,840: 	 Writing CMSSW configuration to /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/inputs/PSet.py
+DEBUG 2017-11-15 07:25:26,818: 	 The following EDM output files will be collected: []
+DEBUG 2017-11-15 07:25:26,818: 	 The following TFile output files will be collected: ['analysis.root']
+DEBUG 2017-11-15 07:25:26,818: 	 The following user output files will be collected: []
+DEBUG 2017-11-15 07:25:26,818: 	 Loading required information from the environment
+DEBUG 2017-11-15 07:25:26,818: 	 Found CMSSW_9_3_2 for slc6_amd64_gcc630 with base /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2
+DEBUG 2017-11-15 07:25:26,818: 	 Making tarball in /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/inputs/95089a0c-18ca-4fe4-bb5f-e4ba82552d0fdefault.tgz
+DEBUG 2017-11-15 07:25:26,835: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/lib
+DEBUG 2017-11-15 07:25:26,835: 	 Adding directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/lib to tarball
+DEBUG 2017-11-15 07:25:27,618: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/biglib
+DEBUG 2017-11-15 07:25:27,618: 	 Adding directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/biglib to tarball
+DEBUG 2017-11-15 07:25:27,621: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/module
+DEBUG 2017-11-15 07:25:27,664: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/Configuration/data to tarball
+DEBUG 2017-11-15 07:25:30,715: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/DataFormats/interface to tarball
+DEBUG 2017-11-15 07:25:30,726: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/NtupleTools/interface to tarball
+DEBUG 2017-11-15 07:25:30,744: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/RecoTools/interface to tarball
+DEBUG 2017-11-15 07:25:30,982: 	 Adding file ../../../Configuration/data/PhaseIISummer16_25nsV3_MC.db to tarball
+DEBUG 2017-11-15 07:25:31,405: 	 Uploading archive /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/inputs/95089a0c-18ca-4fe4-bb5f-e4ba82552d0fdefault.tgz (11 MB) to the CRAB cache. Using URI https://cmsweb.cern.ch/crabcache
+DEBUG 2017-11-15 07:25:39,201: 	 Loading required information from the environment
+DEBUG 2017-11-15 07:25:39,201: 	 Found CMSSW_9_3_2 for slc6_amd64_gcc630 with base /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2
+DEBUG 2017-11-15 07:25:39,201: 	 Making tarball in /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/inputs/debugFiles.tgz
+DEBUG 2017-11-15 07:25:39,599: 	 Uploading archive /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/inputs/debugFiles.tgz (2 KB) to the CRAB cache. Using URI https://cmsweb.cern.ch/crabcache
+DEBUG 2017-11-15 07:25:41,370: 	 Result uploading input files: 4e198fb019d07e682a8bd09208595d4eb73bac82ae7f6e24154a54b4451cc952.tar.gz 
+INFO 2017-11-15 07:25:41,370: 	 Sending the request to the server
+DEBUG 2017-11-15 07:25:41,370: 	 Submitting {'maxjobruntime': 1250, 'extrajdl': [], 'ignorelocality': 0, 'savelogsflag': 0, 'useparent': 0, 'asyncdest': 'T3_US_FNALLPC', 'algoargs': 1, 'cachefilename': '4e198fb019d07e682a8bd09208595d4eb73bac82ae7f6e24154a54b4451cc952.tar.gz', 'numcores': 1, 'addoutputfiles': [], 'generator': 'pythia', 'maxmemory': 2000, 'publishdbsurl': 'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', 'priority': 10, 'jobsw': 'CMSSW_9_3_2', 'edmoutfiles': [], 'userfiles': [], 'primarydataset': '', 'inputdata': '/SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM', 'dryrun': 0, 'workflow': 'crab_20171115_072516', 'cacheurl': u'https://cmsweb.cern.ch/crabcache', 'nonprodsw': 1, 'tfileoutfiles': ['analysis.root'], 'oneEventMode': 0, 'debugfilename': '8478fc490d8410a0bc00e04bf7e70e23b50e08bd6a52b45f8ecc612fd2cf3c2c.tar.gz', 'saveoutput': 1, 'publication': 0, 'jobarch': 'slc6_amd64_gcc630', 'totalunits': 0, 'splitalgo': 'FileBased', 'ignoreglobalblacklist': 0, 'nonvaliddata': 0, 'dbsurl': 'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', 'publishgroupname': 0, 'jobtype': 'Analysis', 'publishname2': ''} 
+DEBUG 2017-11-15 07:25:41,371: 	 Encoded submit request: maxjobruntime=1250&ignorelocality=0&savelogsflag=0&useparent=0&asyncdest=T3_US_FNALLPC&algoargs=1&cachefilename=4e198fb019d07e682a8bd09208595d4eb73bac82ae7f6e24154a54b4451cc952.tar.gz&numcores=1&generator=pythia&maxmemory=2000&publishdbsurl=https%3A%2F%2Fcmsweb.cern.ch%2Fdbs%2Fprod%2Fphys03%2FDBSWriter&priority=10&jobsw=CMSSW_9_3_2&primarydataset=&inputdata=%2FSMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8%2FPhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1%2FMINIAODSIM&dryrun=0&workflow=crab_20171115_072516&cacheurl=https%3A%2F%2Fcmsweb.cern.ch%2Fcrabcache&nonprodsw=1&oneEventMode=0&debugfilename=8478fc490d8410a0bc00e04bf7e70e23b50e08bd6a52b45f8ecc612fd2cf3c2c.tar.gz&saveoutput=1&publication=0&jobarch=slc6_amd64_gcc630&totalunits=0&splitalgo=FileBased&ignoreglobalblacklist=0&nonvaliddata=0&dbsurl=https%3A%2F%2Fcmsweb.cern.ch%2Fdbs%2Fprod%2Fglobal%2FDBSReader&publishgroupname=0&jobtype=Analysis&publishname2=&tfileoutfiles=analysis.root
+DEBUG 2017-11-15 07:25:43,221: 	 Result: {u'result': [{u'RequestName': u'171115_132543:shigginb_crab_20171115_072516'}]}
+INFO 2017-11-15 07:25:43,225: 	 Success: Your task has been delivered to the CRAB3 server.
+INFO 2017-11-15 07:25:43,225: 	 Task name: 171115_132543:shigginb_crab_20171115_072516
+INFO 2017-11-15 07:25:43,225: 	 Please use 'crab status' to check how the submission process proceeds.
+DEBUG 2017-11-15 07:25:43,225: 	 About to return
+INFO 2017-11-15 07:25:43,231: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/crab.log
+DEBUG 2017-11-15 07:59:41,517: 	 Executing command: 'status'
+DEBUG 2017-11-15 07:59:41,517: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2017-11-15 07:59:41,524: 	 Checking credentials
+DEBUG 2017-11-15 07:59:41,524: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 07:59:41,524: 	 Getting proxy life time left
+DEBUG 2017-11-15 07:59:41,626: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 81302
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:41,729: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 81301
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:41,729: 	 Proxy valid for 22:35:02 hours
+DEBUG 2017-11-15 07:59:41,843: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:41,843: 	 Checking credentials
+DEBUG 2017-11-15 07:59:41,843: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 07:59:41,843: 	 Getting proxy life time left
+DEBUG 2017-11-15 07:59:41,946: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 81302
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:42,049: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 81300
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:42,050: 	 Proxy valid for 22:35:02 hours
+DEBUG 2017-11-15 07:59:43,973: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2017-11-15 07:59:44,079: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:44,080: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2017-11-15 07:59:44,080: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2017-11-15 07:59:44,884: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 431:23:57  (18.0 days)
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 07:59:44,885: 	 Myproxy is valid: 1553037
+DEBUG 2017-11-15 07:59:44,885: 	 Command use: status
+DEBUG 2017-11-15 07:59:44,885: 	 Options use: ['-d', 'crab_20171115_072516/']
+DEBUG 2017-11-15 07:59:46,685: 	 CRABClient version: 3.3.1707.patch1
+DEBUG 2017-11-15 07:59:46,685: 	 Instance is prod
+DEBUG 2017-11-15 07:59:46,685: 	 Server base url is cmsweb.cern.ch
+DEBUG 2017-11-15 07:59:46,686: 	 Command url /crabserver/prod/workflow
+DEBUG 2017-11-15 07:59:48,309: 	 Got information from server oracle database: {u'result': [u'171115_132543:shigginb_crab_20171115_072516', u'None', u'SUBMITTED', u'2017-11-15 13:25:43.159743', u'None', u'2017-11-15 13:26:51.497314', u'None', u'CMSSW_9_3_2', u'slc6_amd64_gcc630', u'/SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM', u'[]', u'[]', u'FileBased', u"{'splitOnRun': False, 'halt_job_on_file_boundaries': False, 'files_per_job': 1, 'runs': [], 'lumis': []}", u'0', u'4e198fb019d07e682a8bd09208595d4eb73bac82ae7f6e24154a54b4451cc952.tar.gz', u'https://cmsweb.cern.ch/crabcache', u'shigginb', u'/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham', u'cms', u'None', u'None', u'crab_20171115_072516-00000000000000000000000000000000', u'T3_US_FNALLPC', u'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', u'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', u'F', u'Analysis', u'{}', u'[]', u'F', u'vocms052', u'[]', u'1250', u'1', u'2000', u'10', u'None', u'http://vocms0196.cern.ch/mon/cms1359/171115_132543:shigginb_crab_20171115_072516', u'None', u'None', u'[]', u'[]', u'[]', u'pythia', u'[]', u"['analysis.root']", u'[]', u'https://cmsweb.cern.ch/crabserver/prod', u'None', u'0', u'cmssrv221.fnal.gov:9620', u'crab3@vocms0196.cern.ch', u'F', u'[]', u'T', u'/store/user/shigginb/', u'F', u'None', u'F', u'F', u'F', u'None', u'SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8', u'filetransfers', u'SUBMIT', u'13841058', u'8478fc490d8410a0bc00e04bf7e70e23b50e08bd6a52b45f8ecc612fd2cf3c2c.tar.gz', u'131.225.190.56', u'F', u'None'], u'desc': {u'columns': [u'tm_taskname', u'panda_jobset_id', u'tm_task_status', u'tm_start_time', u'tm_start_injection', u'tm_end_injection', u'tm_task_failure', u'tm_job_sw', u'tm_job_arch', u'tm_input_dataset', u'tm_site_whitelist', u'tm_site_blacklist', u'tm_split_algo', u'tm_split_args', u'tm_totalunits', u'tm_user_sandbox', u'tm_cache_url', u'tm_username', u'tm_user_dn', u'tm_user_vo', u'tm_user_role', u'tm_user_group', u'tm_publish_name', u'tm_asyncdest', u'tm_dbs_url', u'tm_publish_dbs_url', u'tm_publication', u'tm_job_type', u'tm_arguments', u'panda_resubmitted_jobs', u'tm_save_logs', u'tw_name', u'tm_user_infiles', u'tm_maxjobruntime', u'tm_numcores', u'tm_maxmemory', u'tm_priority', u'tm_output_dataset', u'tm_user_webdir', u'tm_activity', u'tm_scriptexe', u'tm_scriptargs', u'tm_extrajdl', u'tm_task_warnings', u'tm_generator', u'tm_outfiles', u'tm_tfile_outfiles', u'tm_edm_outfiles', u'tm_asourl', u'tm_events_per_lumi', u'tm_use_parent', u'tm_collector', u'tm_schedd', u'tm_dry_run', u'tm_user_files', u'tm_transfer_outputs', u'tm_output_lfn', u'tm_ignore_locality', u'tm_fail_limit', u'tm_one_event_mode', u'tm_publish_groupname', u'tm_nonvalid_input_dataset', u'tm_secondary_input_dataset', u'tm_primary_dataset', u'tm_asodb', u'tm_task_command', u'clusterid', u'tm_debug_files', u'tm_submitter_ip_addr', u'tm_ignore_global_blacklist', u'tm_last_publication']}}
+INFO 2017-11-15 07:59:48,310: 	 CRAB project directory:		/uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516
+INFO 2017-11-15 07:59:48,310: 	 Task name:			171115_132543:shigginb_crab_20171115_072516
+INFO 2017-11-15 07:59:48,310: 	 Grid scheduler:			crab3@vocms0196.cern.ch
+INFO 2017-11-15 07:59:48,310: 	 Status on the CRAB server:	SUBMITTED
+INFO 2017-11-15 07:59:48,310: 	 Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/171115_132543%3Ashigginb_crab_20171115_072516
+INFO 2017-11-15 07:59:48,311: 	 Dashboard monitoring URL:	http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132543%3Ashigginb_crab_20171115_072516
+DEBUG 2017-11-15 07:59:48,311: 	 The CRAB server submitted your task to the Grid scheduler (cluster ID: 13841058)
+DEBUG 2017-11-15 07:59:48,311: 	 Webdir is located at http://vocms0196.cern.ch/mon/cms1359/171115_132543:shigginb_crab_20171115_072516
+DEBUG 2017-11-15 07:59:50,314: 	 Proxied webdir is located at https://cmsweb.cern.ch/scheddmon/0196/cms1359/171115_132543:shigginb_crab_20171115_072516
+DEBUG 2017-11-15 07:59:50,314: 	 Retrieving 'status_cache' file from https://cmsweb.cern.ch/scheddmon/0196/cms1359/171115_132543:shigginb_crab_20171115_072516/status_cache
+DEBUG 2017-11-15 07:59:52,067: 	 Got information from status cache file: {'1': {'Retries': 0, 'WallDurations': [379.0], 'StartTimes': [1510752671.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841065.0'], 'EndTimes': [1510753050.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [1816928], 'TotalUserCpuTimeHistory': [243], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [4]}, '3': {'Retries': 0, 'WallDurations': [552.0], 'StartTimes': [1510752676.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841062.0'], 'EndTimes': [1510753228.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [735856], 'TotalUserCpuTimeHistory': [228], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [11]}, '2': {'Retries': 0, 'WallDurations': [552.0], 'StartTimes': [1510752651.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841061.0'], 'EndTimes': [1510753203.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [737012], 'TotalUserCpuTimeHistory': [122], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [6]}, '5': {'Retries': 0, 'WallDurations': [598.0], 'StartTimes': [1510752649.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841064.0'], 'EndTimes': [1510753247.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [757828], 'TotalUserCpuTimeHistory': [230], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [43]}, '4': {'Retries': 0, 'WallDurations': [321.0], 'StartTimes': [1510752646.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841063.0'], 'EndTimes': [1510752967.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [735948], 'TotalUserCpuTimeHistory': [94], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [14]}}
+INFO 2017-11-15 07:59:52,067: 	 Status on the scheduler:	COMPLETED
+INFO 2017-11-15 07:59:52,067: 	 
+Jobs status:                    finished      100.0% (5/5)
+INFO 2017-11-15 07:59:52,067: 	 
+No publication information (publication has been disabled in the CRAB configuration file)
+INFO 2017-11-15 07:59:52,086: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/crab.log
+DEBUG 2017-11-15 09:13:01,075: 	 Executing command: 'status'
+DEBUG 2017-11-15 09:13:01,075: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2017-11-15 09:13:01,083: 	 Checking credentials
+DEBUG 2017-11-15 09:13:01,083: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 09:13:01,083: 	 Getting proxy life time left
+DEBUG 2017-11-15 09:13:01,186: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 76902
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:01,290: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 76901
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:01,290: 	 Proxy valid for 21:21:42 hours
+DEBUG 2017-11-15 09:13:01,403: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:01,404: 	 Checking credentials
+DEBUG 2017-11-15 09:13:01,404: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2017-11-15 09:13:01,404: 	 Getting proxy life time left
+DEBUG 2017-11-15 09:13:01,507: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 76902
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:01,611: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 76901
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:01,611: 	 Proxy valid for 21:21:42 hours
+DEBUG 2017-11-15 09:13:03,225: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2017-11-15 09:13:03,333: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:03,334: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2017-11-15 09:13:03,334: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2017-11-15 09:13:04,539: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 430:10:37  (17.9 days)
+
+ error: 
+ retcode : 0
+DEBUG 2017-11-15 09:13:04,540: 	 Myproxy is valid: 1548637
+DEBUG 2017-11-15 09:13:04,541: 	 Command use: status
+DEBUG 2017-11-15 09:13:04,541: 	 Options use: ['-d', 'crab_20171115_072516/']
+DEBUG 2017-11-15 09:13:06,223: 	 CRABClient version: 3.3.1707.patch1
+DEBUG 2017-11-15 09:13:06,223: 	 Instance is prod
+DEBUG 2017-11-15 09:13:06,223: 	 Server base url is cmsweb.cern.ch
+DEBUG 2017-11-15 09:13:06,223: 	 Command url /crabserver/prod/workflow
+DEBUG 2017-11-15 09:13:08,039: 	 Got information from server oracle database: {u'result': [u'171115_132543:shigginb_crab_20171115_072516', u'None', u'SUBMITTED', u'2017-11-15 13:25:43.159743', u'None', u'2017-11-15 13:26:51.497314', u'None', u'CMSSW_9_3_2', u'slc6_amd64_gcc630', u'/SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM', u'[]', u'[]', u'FileBased', u"{'splitOnRun': False, 'halt_job_on_file_boundaries': False, 'files_per_job': 1, 'runs': [], 'lumis': []}", u'0', u'4e198fb019d07e682a8bd09208595d4eb73bac82ae7f6e24154a54b4451cc952.tar.gz', u'https://cmsweb.cern.ch/crabcache', u'shigginb', u'/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham', u'cms', u'None', u'None', u'crab_20171115_072516-00000000000000000000000000000000', u'T3_US_FNALLPC', u'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', u'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', u'F', u'Analysis', u'{}', u'[]', u'F', u'vocms052', u'[]', u'1250', u'1', u'2000', u'10', u'None', u'http://vocms0196.cern.ch/mon/cms1359/171115_132543:shigginb_crab_20171115_072516', u'None', u'None', u'[]', u'[]', u'[]', u'pythia', u'[]', u"['analysis.root']", u'[]', u'https://cmsweb.cern.ch/crabserver/prod', u'None', u'0', u'cmssrv221.fnal.gov:9620', u'crab3@vocms0196.cern.ch', u'F', u'[]', u'T', u'/store/user/shigginb/', u'F', u'None', u'F', u'F', u'F', u'None', u'SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8', u'filetransfers', u'SUBMIT', u'13841058', u'8478fc490d8410a0bc00e04bf7e70e23b50e08bd6a52b45f8ecc612fd2cf3c2c.tar.gz', u'131.225.190.56', u'F', u'None'], u'desc': {u'columns': [u'tm_taskname', u'panda_jobset_id', u'tm_task_status', u'tm_start_time', u'tm_start_injection', u'tm_end_injection', u'tm_task_failure', u'tm_job_sw', u'tm_job_arch', u'tm_input_dataset', u'tm_site_whitelist', u'tm_site_blacklist', u'tm_split_algo', u'tm_split_args', u'tm_totalunits', u'tm_user_sandbox', u'tm_cache_url', u'tm_username', u'tm_user_dn', u'tm_user_vo', u'tm_user_role', u'tm_user_group', u'tm_publish_name', u'tm_asyncdest', u'tm_dbs_url', u'tm_publish_dbs_url', u'tm_publication', u'tm_job_type', u'tm_arguments', u'panda_resubmitted_jobs', u'tm_save_logs', u'tw_name', u'tm_user_infiles', u'tm_maxjobruntime', u'tm_numcores', u'tm_maxmemory', u'tm_priority', u'tm_output_dataset', u'tm_user_webdir', u'tm_activity', u'tm_scriptexe', u'tm_scriptargs', u'tm_extrajdl', u'tm_task_warnings', u'tm_generator', u'tm_outfiles', u'tm_tfile_outfiles', u'tm_edm_outfiles', u'tm_asourl', u'tm_events_per_lumi', u'tm_use_parent', u'tm_collector', u'tm_schedd', u'tm_dry_run', u'tm_user_files', u'tm_transfer_outputs', u'tm_output_lfn', u'tm_ignore_locality', u'tm_fail_limit', u'tm_one_event_mode', u'tm_publish_groupname', u'tm_nonvalid_input_dataset', u'tm_secondary_input_dataset', u'tm_primary_dataset', u'tm_asodb', u'tm_task_command', u'clusterid', u'tm_debug_files', u'tm_submitter_ip_addr', u'tm_ignore_global_blacklist', u'tm_last_publication']}}
+INFO 2017-11-15 09:13:08,040: 	 CRAB project directory:		/uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516
+INFO 2017-11-15 09:13:08,040: 	 Task name:			171115_132543:shigginb_crab_20171115_072516
+INFO 2017-11-15 09:13:08,040: 	 Grid scheduler:			crab3@vocms0196.cern.ch
+INFO 2017-11-15 09:13:08,040: 	 Status on the CRAB server:	SUBMITTED
+INFO 2017-11-15 09:13:08,040: 	 Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/171115_132543%3Ashigginb_crab_20171115_072516
+INFO 2017-11-15 09:13:08,041: 	 Dashboard monitoring URL:	http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132543%3Ashigginb_crab_20171115_072516
+DEBUG 2017-11-15 09:13:08,041: 	 The CRAB server submitted your task to the Grid scheduler (cluster ID: 13841058)
+DEBUG 2017-11-15 09:13:08,041: 	 Webdir is located at http://vocms0196.cern.ch/mon/cms1359/171115_132543:shigginb_crab_20171115_072516
+DEBUG 2017-11-15 09:13:09,723: 	 Proxied webdir is located at https://cmsweb.cern.ch/scheddmon/0196/cms1359/171115_132543:shigginb_crab_20171115_072516
+DEBUG 2017-11-15 09:13:09,723: 	 Retrieving 'status_cache' file from https://cmsweb.cern.ch/scheddmon/0196/cms1359/171115_132543:shigginb_crab_20171115_072516/status_cache
+DEBUG 2017-11-15 09:13:11,512: 	 Got information from status cache file: {'1': {'Retries': 0, 'WallDurations': [379.0], 'StartTimes': [1510752671.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841065.0'], 'EndTimes': [1510753050.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [1816928], 'TotalUserCpuTimeHistory': [243], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [4]}, '3': {'Retries': 0, 'WallDurations': [552.0], 'StartTimes': [1510752676.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841062.0'], 'EndTimes': [1510753228.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [735856], 'TotalUserCpuTimeHistory': [228], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [11]}, '2': {'Retries': 0, 'WallDurations': [552.0], 'StartTimes': [1510752651.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841061.0'], 'EndTimes': [1510753203.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [737012], 'TotalUserCpuTimeHistory': [122], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [6]}, '5': {'Retries': 0, 'WallDurations': [598.0], 'StartTimes': [1510752649.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841064.0'], 'EndTimes': [1510753247.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [757828], 'TotalUserCpuTimeHistory': [230], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [43]}, '4': {'Retries': 0, 'WallDurations': [321.0], 'StartTimes': [1510752646.0], 'SubmitTimes': [1510752426.0], 'JobIds': ['13841063.0'], 'EndTimes': [1510752967.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'finished', 'ResidentSetSize': [735948], 'TotalUserCpuTimeHistory': [94], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [14]}}
+INFO 2017-11-15 09:13:11,512: 	 Status on the scheduler:	COMPLETED
+INFO 2017-11-15 09:13:11,513: 	 
+Jobs status:                    finished      100.0% (5/5)
+INFO 2017-11-15 09:13:11,513: 	 
+No publication information (publication has been disabled in the CRAB configuration file)
+INFO 2017-11-15 09:13:11,523: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/crab.log
