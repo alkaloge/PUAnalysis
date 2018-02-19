@@ -22,6 +22,7 @@
   <use   name="DataFormats/HepMCCandidate"/>
   <use   name="PUAnalysis/NtupleTools"/>
   <use   name="PUAnalysis/DataFormats"/>
+  <use   name="ZZMatrixElement/MELA"/>
   <use   name="HTT-utilities/LepEffInterface"/>
   <use   name="CondTools/BTau"/>
   <use   name="CommonTools/UtilAlgos"/>

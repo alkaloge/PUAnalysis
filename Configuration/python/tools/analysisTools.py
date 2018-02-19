@@ -10,6 +10,7 @@ from PhysicsTools.PatAlgos.tools.metTools import *
 from PhysicsTools.PatAlgos.tools.pfTools import *
 from PhysicsTools.PatAlgos.tools.trigTools import *
 from CondCore.DBCommon.CondDBSetup_cfi import *
+#from RecoMET.METFilters.BadChargedCandidateFilter_cfi import * 
 
 import sys
 import os 
@@ -229,11 +230,11 @@ def BadMuonFilter(process):
 #    process.BadPFMuonFilter.taggingMode =  cms.bool(True)
 #    #process.BadPFMuonFilter.debug =  cms.bool(True)
 
-#    process.load('RecoMET.METFilters.BadChargedCandidateFilter_cfi')
-#    process.BadChargedCandidateFilter.muons = cms.InputTag("slimmedMuons")
-#    process.BadChargedCandidateFilter.PFCandidates = cms.InputTag("packedPFCandidates")
-#    process.BadChargedCandidateFilter.taggingMode =  cms.bool(True)
-    #process.BadChargedCandidateFilter.debug =  cms.bool(True)
+ #   process.load('RecoMET.METFilters.BadChargedCandidateFilter_cfi')
+ #   process.BadChargedCandidateFilter.muons = cms.InputTag("slimmedMuons")
+ #   process.BadChargedCandidateFilter.PFCandidates = cms.InputTag("packedPFCandidates")
+ #   process.BadChargedCandidateFilter.taggingMode =  cms.bool(True)
+ #   process.BadChargedCandidateFilter.debug =  cms.bool(True)
 
 
 #    process.BadMuon = cms.Sequence(process.BadPFMuonFilter*process.BadChargedCandidateFilter)
@@ -490,7 +491,8 @@ def recorrectJets(process, isData = False, src = "slimmedJets"):
                                                           label  = cms.untracked.string('AK4PFchs')
                                                           )
                                                  ), 
-                               connect = cms.string('sqlite:////'+cmssw_base+'/src/PUAnalysis/Configuration/data/'+JECTag+'.db')
+                               #connect = cms.string('sqlite:////'+cmssw_base+'/src/PUAnalysis/Configuration/data/'+JECTag+'.db')
+                               connect = cms.string('sqlite_file:'+JECTag+'.db')
                                )
    
      ## add an es_prefer statement to resolve a possible conflict from simultaneous connection to a global tag
@@ -601,14 +603,14 @@ def tauTriggerMatchMiniAOD(process,triggerProcess,HLT,srcTau):
                                             src = cms.InputTag(srcTau),
                                             trigEvent = cms.InputTag(HLT),
                                             filtersAND = cms.vstring(
-                                                'hltDoublePFTau35TrackPt1MediumCombinedIsolationDz02Reg',
-                                                'hltDoublePFTau35TrackPt1MediumIsolationDz02Reg'
-                                                #'hltDoublePFTau40TrackPt1MediumIsolationDz02Reg'
+                                                #'hltDoublePFTau35TrackPt1MediumCombinedIsolationDz02Reg',
+                                                'hltDoublePFTau35TrackPt1MediumIsolationDz02Reg',
+                                                'hltDoublePFTau40TrackPt1MediumIsolationDz02Reg'
                                             ),
                                             filters = cms.vstring(
-                                                'hltDoublePFTau35TrackPt1MediumCombinedIsolationDz02Reg',
-                                                'hltDoublePFTau35TrackPt1MediumIsolationDz02Reg'
-                                                #'hltDoublePFTau40TrackPt1MediumIsolationDz02Reg'
+                                                #'hltDoublePFTau35TrackPt1MediumCombinedIsolationDz02Reg',
+                                                'hltDoublePFTau35TrackPt1MediumIsolationDz02Reg',
+                                                'hltDoublePFTau40TrackPt1MediumIsolationDz02Reg'
                                             ),
                                             #bits = cms.InputTag("TriggerResults","","HLT"),
                                             bits = cms.InputTag(HLT,"",triggerProcess),

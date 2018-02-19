@@ -4,11 +4,17 @@ import FWCore.ParameterSet.Config as cms
 #Import tool that creates the cut sequence
 from PUAnalysis.Configuration.tools.CutSequenceProducer import *
 
+###############################			Di-Muon 		###################################
+
 ###############################			Ele-Tau 		###################################
 TTanalysisConfigurator = CutSequenceProducer(initialCounter  = 'initialEventsTT',
                                   pyModuleName = __name__,
                                   pyNameSpace  = locals())
 
+TTanalysisConfigurator.addDiCandidateModule('diMuons','PATMuPairProducer','miniAODMuonID','miniAODMuonID','slimmedMETs','','patOverloadedJets',0,9999,text = 'AtLeastOneDiMuon',leadingObjectsOnly = False,dR = 0.30,recoMode = "",genParticles='prunedGenParticles')
+#TTanalysisConfigurator.addDiCandidateModule('diMuons','PATMuPairProducer','slimmedMuons','slimmedMuons','slimmedMETs','','patOverloadedJets',0,9999,text = 'AtLeastOneDiMuon',leadingObjectsOnly = False,dR = 0.30,recoMode = "",genParticles='prunedGenParticles')
+TTanalysisConfigurator.addSelector('diMuonsOS','PATMuPairSelector','leg1.isPFMuon&&leg2.isPFMuon&&abs(leg1.eta())<3&&abs(leg2.eta())<3&&abs(leg1.userFloat("dZ"))<0.2&&abs(leg2.userFloat("dZ"))<0.2&&abs(leg2.userFloat("dXY"))<0.045&&abs(leg2.userFloat("dXY"))<0.045&&charge==0&&leg1.isGlobalMuon&&leg2.isGlobalMuon&&leg1.pt()>7&&leg2.pt()>7&&leg1.userFloat("dBRelIso")<0.5 &&leg2.userFloat("dBRelIso")<0.5','DiMuonCreation',0,100)
+TTanalysisConfigurator.addSorter('diMuonsOSSorted','PATMuPairSorter')
 
 #TTanalysisConfigurator.addSmearing('patOverloadedTaus','miniAODMuonID','miniAODElectronVID','filteredJets','slimmedMETs','TT')
 

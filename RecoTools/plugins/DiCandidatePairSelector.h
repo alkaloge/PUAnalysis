@@ -48,12 +48,12 @@ typedef SingleObjectSelector<
             StringCutObjectSelector<PATDiTauPair>
         > PATDiTauPairSelector;
 
-/*
+
 typedef SingleObjectSelector<
             std::vector<PATMuPair>,
             StringCutObjectSelector<PATMuPair>
         > PATMuPairSelector;
-*/
+
 typedef SingleObjectSelector<
             std::vector<PATElecTauPair>,
             StringCutObjectSelector<PATElecTauPair>

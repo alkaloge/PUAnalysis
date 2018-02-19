@@ -32,8 +32,8 @@ class TriggerFilterFiller : public NtupleFillerBase {
 
  TriggerFilterFiller(const edm::ParameterSet& iConfig, TTree* t, edm::ConsumesCollector && iC):
   src_(iC.consumes<edm::TriggerResults>(iConfig.getParameter<edm::InputTag>("src"))),
-    BadChCandFilterToken_(iC.consumes<bool>(iConfig.getParameter<edm::InputTag>("BadChargedCandidateFilter"))),
-    BadPFMuonFilterToken_(iC.consumes<bool>(iConfig.getParameter<edm::InputTag>("BadPFMuonFilter"))),
+    //BadChCandFilterToken_(iC.consumes<bool>(iConfig.getParameter<edm::InputTag>("BadChargedCandidateFilter"))),
+    //BadPFMuonFilterToken_(iC.consumes<bool>(iConfig.getParameter<edm::InputTag>("BadPFMuonFilter"))),
     paths_(iConfig.getParameter<std::vector<std::string> >("paths"))
       {
 	fired    = std::vector<int>(paths_.size());
@@ -72,23 +72,23 @@ class TriggerFilterFiller : public NtupleFillerBase {
     if(!iEvent.getByToken(src_, triggerBits))
       std::cout<<"ERROR GETTING THE TRIGGERBITS!!"<<std::endl;
 
-    if(!iEvent.getByToken(BadChCandFilterToken_, ifilterbadChCand))
-      std::cout<<"ERROR GETTING THE CHARGED HADRON FILTER TOKEN!!"<<std::endl;
+    //if(!iEvent.getByToken(BadChCandFilterToken_, ifilterbadChCand))
+    //  std::cout<<"ERROR GETTING THE CHARGED HADRON FILTER TOKEN!!"<<std::endl;
 
-    if(!iEvent.getByToken(BadPFMuonFilterToken_, ifilterbadPFMuon))
-      std::cout<<"ERROR GETTING THE PF MUON FILTER TOKEN!!"<<std::endl;
+    //if(!iEvent.getByToken(BadPFMuonFilterToken_, ifilterbadPFMuon))
+    //  std::cout<<"ERROR GETTING THE PF MUON FILTER TOKEN!!"<<std::endl;
 
     //std::cout<<"bad pf muon filter "<<ifilterbadPFMuon<<std::endl;
     //std::cout<<"bad ch hadron filter "<<ifilterbadChCand<<std::endl;
 
-    bool filterbadChCandidate = *ifilterbadChCand;
-    bool filterbadPFMuon = *ifilterbadPFMuon;
+    //bool filterbadChCandidate = *ifilterbadChCand;
+    //bool filterbadPFMuon = *ifilterbadPFMuon;
 
     //std::cout<<"filter bad 1: " << filterbadChCandidate<<std::endl;
     //std::cout<<"filter bad 2: " << filterbadPFMuon<<std::endl;
 
     const edm::TriggerNames &names = iEvent.triggerNames(*triggerBits);
-    any=filterbadChCandidate + filterbadPFMuon;
+    //any=filterbadPFMuon;//filterbadChCandidate + filterbadPFMuon;
     //std::cout<<"filterBadAny "<<any<<std::endl;
 
     //get the names of the triggers

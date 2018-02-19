@@ -12,9 +12,10 @@
  *          Michal Bluj,
  *          Christian Veelken
  *
- * \version $Revision: 1.9 $
+ * \version $Revision: 2.0 $
  *
  * $Id: CompositePtrCandidateT1T2MEtProducer.h,v 1.9 2013/06/20 16:35:01 ojalvo Exp $
+ * $Id: CompositePtrCandidateT1T2MEtProducer.h,v 2.0 2018/02/13 shigginb and  ojalvo Exp $
  *
  */
 
@@ -43,6 +44,8 @@
 #include "DataFormats/HepMCCandidate/interface/GenParticle.h"
 
 #include <string>
+//MELA Technique 
+#include "ZZMatrixElement/MELA/interface/Mela.h"
 
 bool IsRealData=false; 
 

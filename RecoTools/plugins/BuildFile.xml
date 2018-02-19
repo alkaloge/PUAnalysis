@@ -24,6 +24,7 @@
   <use   name="DataFormats/HepMCCandidate"/>
   <use   name="PUAnalysis/RecoTools"/>
   <use   name="PUAnalysis/DataFormats"/>
+  <use   name="ZZMatrixElement/MELA"/>
 <!--  <use   name="TauAnalysis/SVfitStandalone"/> -->
   <use   name="CommonTools/UtilAlgos"/>
   <use   name="Geometry/CommonDetUnit"/>
