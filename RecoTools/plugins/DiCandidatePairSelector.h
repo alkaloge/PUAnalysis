@@ -63,13 +63,13 @@ typedef SingleObjectSelector<
             std::vector<PATElecSCPair>,
             StringCutObjectSelector<PATElecSCPair>
         > PATEleSCPairSelector;
-
+*/
 typedef SingleObjectSelector<
             std::vector<PATElecPair>,
             StringCutObjectSelector<PATElecPair>
         > PATElePairSelector;
 
-
+/*
 typedef SingleObjectSelector<
             std::vector<PATElecMuPair>,
             StringCutObjectSelector<PATElecMuPair>

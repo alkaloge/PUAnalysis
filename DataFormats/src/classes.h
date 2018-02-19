@@ -9,6 +9,7 @@
 #include "DataFormats/PatCandidates/interface/Tau.h"
 #include "DataFormats/PatCandidates/interface/Jet.h"
 
+#include "PUAnalysis/DataFormats/interface/TH1Keys.h"
 
 namespace {
   struct UWanalysis_DataFormats_dictionary {
@@ -40,14 +41,14 @@ namespace {
     edm::Ptr<PATJetPair> dummyPATJetPairPtr;
     */
 
-    /*
+
     /// create dictionaries for PATElecPair objects
     PATElecPair dummyPATElecPair;
     edm::Wrapper<PATElecPair> dummyPATElecPairWrapper;
     PATElecPairCollection dummyPATElecPairCollection;
     edm::Wrapper<PATElecPairCollection> dummyPATElecPairCollectionWrapper;
     edm::Ptr<PATElecPair> dummyPATElecPairPtr;
-    */
+
 
 
     /// create dictionaries for PATMuPair objects
