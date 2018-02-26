@@ -1,0 +1,429 @@
+# Conditions read from  CMS_CONDITIONS  via FrontierProd 
+ ################################################################### 
+ # WARNING: this module is deprecated.                             # 
+ # Please use CondCore.CondDB.CondDB_cfi.py                        # 
+ ################################################################### 
+recorrecting the jets
+List Of Filters
+['processedEvents', 'initialEventsTT', 'AtLeastOneDiTau', 'TTTauPtEta', 'TTTauDecayFound', 'TTTauStandardDecayFound', 'TTTauDRSel', 'TTSync', 'TTAntiEle', 'TTAntiMu', 'TTIso', 'TTOS']
+DEBUG 2018-02-14 16:49:43,263: 	 Executing command: 'submit'
+DEBUG 2018-02-14 16:49:43,263: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2018-02-14 16:49:43,270: 	 Checking credentials
+DEBUG 2018-02-14 16:49:43,271: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 16:49:43,271: 	 Getting proxy life time left
+DEBUG 2018-02-14 16:49:43,374: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35869
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:43,477: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35869
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:43,478: 	 Proxy valid for 09:57:49 hours
+INFO 2018-02-14 16:49:43,478: 	 Will use CRAB configuration file crab3_cp_mc.py
+DEBUG 2018-02-14 16:49:43,478: 	 Loading CRAB configuration file.
+DEBUG 2018-02-14 16:49:43,540: 	 Will use CRAB Analysis plugin (i.e. will run an analysis job type).
+DEBUG 2018-02-14 16:49:43,656: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:43,657: 	 Checking credentials
+DEBUG 2018-02-14 16:49:43,657: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 16:49:43,657: 	 Getting proxy life time left
+DEBUG 2018-02-14 16:49:43,760: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35869
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:43,864: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35869
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:43,865: 	 Proxy valid for 09:57:49 hours
+DEBUG 2018-02-14 16:49:43,968: 	 Executing : 
+ command : env X509_USER_PROXY=/tmp/x509up_u52190 voms-proxy-info -fqan
+ output : /cms/Role=NULL/Capability=NULL
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:44,865: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2018-02-14 16:49:44,971: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:44,972: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2018-02-14 16:49:44,972: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2018-02-14 16:49:45,676: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 693:17:40  (28.9 days)
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:49:45,677: 	 Myproxy is valid: 2495860
+DEBUG 2018-02-14 16:49:45,677: 	 Command use: submit
+DEBUG 2018-02-14 16:49:45,677: 	 Options use: ['-c', 'crab3_cp_mc.py']
+DEBUG 2018-02-14 16:49:46,786: 	 CRABClient version: 3.3.1802
+DEBUG 2018-02-14 16:49:46,786: 	 Instance is prod
+DEBUG 2018-02-14 16:49:46,786: 	 Server base url is cmsweb.cern.ch
+DEBUG 2018-02-14 16:49:46,786: 	 Command url /crabserver/prod/workflow
+DEBUG 2018-02-14 16:49:46,786: 	 Started submission
+DEBUG 2018-02-14 16:49:46,786: 	 Working on /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943
+DEBUG 2018-02-14 16:49:47,788: 	 Loading required information from the environment
+DEBUG 2018-02-14 16:49:47,788: 	 Found CMSSW_8_0_21 for slc6_amd64_gcc530 with base /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21
+DEBUG 2018-02-14 16:49:47,788: 	 Loading required information from the environment
+DEBUG 2018-02-14 16:49:47,788: 	 Found CMSSW_8_0_21 for slc6_amd64_gcc530 with base /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21
+DEBUG 2018-02-14 16:49:47,804: 	 UNIQUE NAME: tarUUID c5be17e8-1617-4ac9-b23c-07889dd7ed5d 
+DEBUG 2018-02-14 16:49:47,804: 	 self.config: from WMCore.Configuration import Configuration
+config = Configuration()
+config.section_('General')
+config.General.workArea = '2018_MC_VBFtt'
+config.General.requestName = ''
+config.section_('JobType')
+config.JobType.psetName = '../../../cp-mc.py'
+config.JobType.pluginName = 'Analysis'
+config.JobType.inputFiles = ['../../../Configuration/data/Summer16_23Sep2016V4_MC.db']
+config.JobType.outputFiles = ['analysis.root']
+config.JobType.allowUndistributedCMSSW = True
+config.section_('Data')
+config.Data.inputDataset = '/VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM'
+config.Data.unitsPerJob = 1
+config.Data.publication = False
+config.Data.inputDBS = 'global'
+config.Data.splitting = 'FileBased'
+config.section_('Site')
+config.Site.storageSite = 'T3_US_FNALLPC'
+config.section_('User')
+config.section_('Debug')
+
+DEBUG 2018-02-14 16:49:47,804: 	 self.config.JobType.psetName: ../../../cp-mc.py
+INFO 2018-02-14 16:49:47,805: 	 Importing CMSSW configuration ../../../cp-mc.py
+INFO 2018-02-14 16:49:50,692: 	 Finished importing CMSSW configuration ../../../cp-mc.py
+DEBUG 2018-02-14 16:49:50,692: 	 Writing CMSSW configuration to /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/inputs/PSet.py
+DEBUG 2018-02-14 16:49:51,653: 	 The following EDM output files will be collected: []
+DEBUG 2018-02-14 16:49:51,653: 	 The following TFile output files will be collected: ['analysis.root']
+DEBUG 2018-02-14 16:49:51,653: 	 The following user output files will be collected: []
+DEBUG 2018-02-14 16:49:51,653: 	 Loading required information from the environment
+DEBUG 2018-02-14 16:49:51,653: 	 Found CMSSW_8_0_21 for slc6_amd64_gcc530 with base /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21
+DEBUG 2018-02-14 16:49:51,653: 	 Making tarball in /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/inputs/c5be17e8-1617-4ac9-b23c-07889dd7ed5ddefault.tgz
+DEBUG 2018-02-14 16:49:51,723: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/lib
+DEBUG 2018-02-14 16:49:51,723: 	 Adding directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/lib to tarball
+DEBUG 2018-02-14 16:49:53,721: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/biglib
+DEBUG 2018-02-14 16:49:53,721: 	 Adding directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/biglib to tarball
+DEBUG 2018-02-14 16:49:53,722: 	 Checking directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/module
+DEBUG 2018-02-14 16:49:55,630: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/Configuration/data to tarball
+DEBUG 2018-02-14 16:49:58,703: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/DataFormats/interface to tarball
+DEBUG 2018-02-14 16:49:58,783: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/NtupleTools/interface to tarball
+DEBUG 2018-02-14 16:49:59,102: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/RecoTools/interface to tarball
+DEBUG 2018-02-14 16:49:59,868: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/ZZMatrixElement/MEKD/interface to tarball
+DEBUG 2018-02-14 16:50:01,031: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/ZZMatrixElement/MELA/data to tarball
+DEBUG 2018-02-14 16:50:28,015: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/ZZMatrixElement/MELA/interface to tarball
+DEBUG 2018-02-14 16:50:28,552: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/ZZMatrixElement/MEMCalculators/interface to tarball
+DEBUG 2018-02-14 16:50:28,558: 	 Adding data directory /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/ZZMatrixElement/PythonWrapper/interface to tarball
+DEBUG 2018-02-14 16:50:28,561: 	 Adding file ../../../Configuration/data/Summer16_23Sep2016V4_MC.db to tarball
+DEBUG 2018-02-14 16:50:29,059: 	 Uploading archive /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/inputs/c5be17e8-1617-4ac9-b23c-07889dd7ed5ddefault.tgz (49 MB) to the CRAB cache. Using URI https://cmsweb.cern.ch/crabcache
+DEBUG 2018-02-14 16:50:55,337: 	 Loading required information from the environment
+DEBUG 2018-02-14 16:50:55,337: 	 Found CMSSW_8_0_21 for slc6_amd64_gcc530 with base /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21
+DEBUG 2018-02-14 16:50:55,337: 	 Making tarball in /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/inputs/debugFiles.tgz
+DEBUG 2018-02-14 16:50:55,343: 	 Uploading archive /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/inputs/debugFiles.tgz (2 KB) to the CRAB cache. Using URI https://cmsweb.cern.ch/crabcache
+DEBUG 2018-02-14 16:50:56,559: 	 Result uploading input files: 9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz 
+INFO 2018-02-14 16:50:56,560: 	 Sending the request to the server
+DEBUG 2018-02-14 16:50:56,560: 	 Submitting {'maxjobruntime': 1250, 'extrajdl': [], 'ignorelocality': 0, 'savelogsflag': 0, 'useparent': 0, 'asyncdest': 'T3_US_FNALLPC', 'algoargs': 1, 'cachefilename': '9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz', 'numcores': 1, 'addoutputfiles': [], 'generator': 'pythia', 'maxmemory': 2000, 'publishdbsurl': 'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', 'priority': 10, 'jobsw': 'CMSSW_8_0_21', 'edmoutfiles': [], 'userfiles': [], 'primarydataset': '', 'inputdata': '/VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM', 'dryrun': 0, 'workflow': 'crab_20180214_164943', 'cacheurl': u'https://cmsweb.cern.ch/crabcache', 'nonprodsw': 1, 'tfileoutfiles': ['analysis.root'], 'oneEventMode': 0, 'debugfilename': '2fe2e24c9e2312992627cf1a97c5b04dd660c538050cc35261118b29eb2d96ac.tar.gz', 'saveoutput': 1, 'publication': 0, 'jobarch': 'slc6_amd64_gcc530', 'totalunits': 0, 'splitalgo': 'FileBased', 'ignoreglobalblacklist': 0, 'nonvaliddata': 0, 'dbsurl': 'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', 'publishgroupname': 0, 'jobtype': 'Analysis', 'publishname2': ''} 
+DEBUG 2018-02-14 16:50:56,561: 	 Encoded submit request: maxjobruntime=1250&ignorelocality=0&savelogsflag=0&useparent=0&asyncdest=T3_US_FNALLPC&algoargs=1&cachefilename=9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz&numcores=1&generator=pythia&maxmemory=2000&publishdbsurl=https%3A%2F%2Fcmsweb.cern.ch%2Fdbs%2Fprod%2Fphys03%2FDBSWriter&priority=10&jobsw=CMSSW_8_0_21&primarydataset=&inputdata=%2FVBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8%2FRunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1%2FMINIAODSIM&dryrun=0&workflow=crab_20180214_164943&cacheurl=https%3A%2F%2Fcmsweb.cern.ch%2Fcrabcache&nonprodsw=1&oneEventMode=0&debugfilename=2fe2e24c9e2312992627cf1a97c5b04dd660c538050cc35261118b29eb2d96ac.tar.gz&saveoutput=1&publication=0&jobarch=slc6_amd64_gcc530&totalunits=0&splitalgo=FileBased&ignoreglobalblacklist=0&nonvaliddata=0&dbsurl=https%3A%2F%2Fcmsweb.cern.ch%2Fdbs%2Fprod%2Fglobal%2FDBSReader&publishgroupname=0&jobtype=Analysis&publishname2=&tfileoutfiles=analysis.root
+DEBUG 2018-02-14 16:50:57,470: 	 Result: {u'result': [{u'RequestName': u'180214_225057:shigginb_crab_20180214_164943'}]}
+INFO 2018-02-14 16:50:57,473: 	 Success: Your task has been delivered to the CRAB3 server.
+INFO 2018-02-14 16:50:57,473: 	 Task name: 180214_225057:shigginb_crab_20180214_164943
+INFO 2018-02-14 16:50:57,473: 	 Please use 'crab status' to check how the submission process proceeds.
+DEBUG 2018-02-14 16:50:57,473: 	 About to return
+INFO 2018-02-14 16:50:57,477: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/crab.log
+DEBUG 2018-02-14 16:51:14,892: 	 Executing command: 'status'
+DEBUG 2018-02-14 16:51:14,893: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2018-02-14 16:51:14,900: 	 Checking credentials
+DEBUG 2018-02-14 16:51:14,900: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 16:51:14,900: 	 Getting proxy life time left
+DEBUG 2018-02-14 16:51:15,003: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35778
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:15,106: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35777
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:15,106: 	 Proxy valid for 09:56:18 hours
+DEBUG 2018-02-14 16:51:15,216: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:15,216: 	 Checking credentials
+DEBUG 2018-02-14 16:51:15,216: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 16:51:15,216: 	 Getting proxy life time left
+DEBUG 2018-02-14 16:51:15,319: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35777
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:15,422: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35777
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:15,422: 	 Proxy valid for 09:56:17 hours
+DEBUG 2018-02-14 16:51:16,883: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2018-02-14 16:51:16,989: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:16,989: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2018-02-14 16:51:16,989: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2018-02-14 16:51:17,693: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 693:16:08  (28.9 days)
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 16:51:17,695: 	 Myproxy is valid: 2495768
+DEBUG 2018-02-14 16:51:17,695: 	 Command use: status
+DEBUG 2018-02-14 16:51:17,695: 	 Options use: ['--verboseErrors', 'VBF/2018_MC_VBFtt/crab_20180214_164943/']
+DEBUG 2018-02-14 16:51:18,824: 	 CRABClient version: 3.3.1802
+DEBUG 2018-02-14 16:51:18,825: 	 Instance is prod
+DEBUG 2018-02-14 16:51:18,825: 	 Server base url is cmsweb.cern.ch
+DEBUG 2018-02-14 16:51:18,825: 	 Command url /crabserver/prod/workflow
+DEBUG 2018-02-14 16:51:19,940: 	 Got information from server oracle database: {u'result': [u'180214_225057:shigginb_crab_20180214_164943', u'None', u'None', u'QUEUED', u'SUBMIT', u'2018-02-14 22:50:57.408700', u'None', u'None', u'None', u'CMSSW_8_0_21', u'slc6_amd64_gcc530', u'/VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM', u'F', u'0', u'[]', u'[]', u'FileBased', u"{'splitOnRun': False, 'halt_job_on_file_boundaries': False, 'files_per_job': 1, 'runs': [], 'lumis': []}", u'0', u'9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz', u'https://cmsweb.cern.ch/crabcache', u'shigginb', u'/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham', u'cms', u'None', u'None', u'crab_20180214_164943-00000000000000000000000000000000', u'F', u'T3_US_FNALLPC', u'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', u'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', u'F', u'[]', u"['analysis.root']", u'[]', u'Analysis', u'pythia', u'None', u'{}', u'[]', u'F', u'vocms052', u'[]', u'1250', u'1', u'2000', u'10', u'None', u'[]', u'None', u'None', u'[]', u'[]', u'https://cmsweb.cern.ch/crabserver/prod', u'cmsgwms-collector-global.cern.ch:9620,cmssrv221.fnal.gov:9620', u'None', u'F', u'[]', u'T', u'/store/user/shigginb/', u'F', u'None', u'F', u'None', u'VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8', u'None', u'2fe2e24c9e2312992627cf1a97c5b04dd660c538050cc35261118b29eb2d96ac.tar.gz', u'None', u'filetransfers', u'F', u'131.225.189.165'], u'desc': {u'columns': [u'tm_taskname', u'tm_activity', u'panda_jobset_id', u'tm_task_status', u'tm_task_command', u'tm_start_time', u'tm_start_injection', u'tm_end_injection', u'tm_task_failure', u'tm_job_sw', u'tm_job_arch', u'tm_input_dataset', u'tm_nonvalid_input_dataset', u'tm_use_parent', u'tm_site_whitelist', u'tm_site_blacklist', u'tm_split_algo', u'tm_split_args', u'tm_totalunits', u'tm_user_sandbox', u'tm_cache_url', u'tm_username', u'tm_user_dn', u'tm_user_vo', u'tm_user_role', u'tm_user_group', u'tm_publish_name', u'tm_publish_groupname', u'tm_asyncdest', u'tm_dbs_url', u'tm_publish_dbs_url', u'tm_publication', u'tm_outfiles', u'tm_tfile_outfiles', u'tm_edm_outfiles', u'tm_job_type', u'tm_generator', u'tm_events_per_lumi', u'tm_arguments', u'panda_resubmitted_jobs', u'tm_save_logs', u'tw_name', u'tm_user_infiles', u'tm_maxjobruntime', u'tm_numcores', u'tm_maxmemory', u'tm_priority', u'tm_output_dataset', u'tm_task_warnings', u'tm_user_webdir', u'tm_scriptexe', u'tm_scriptargs', u'tm_extrajdl', u'tm_asourl', u'tm_collector', u'tm_schedd', u'tm_dry_run', u'tm_user_files', u'tm_transfer_outputs', u'tm_output_lfn', u'tm_ignore_locality', u'tm_fail_limit', u'tm_one_event_mode', u'tm_secondary_input_dataset', u'tm_primary_dataset', u'tm_last_publication', u'tm_debug_files', u'clusterid', u'tm_asodb', u'tm_ignore_global_blacklist', u'tm_submitter_ip_addr']}}
+INFO 2018-02-14 16:51:19,941: 	 CRAB project directory:		/uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943
+INFO 2018-02-14 16:51:19,941: 	 Task name:			180214_225057:shigginb_crab_20180214_164943
+INFO 2018-02-14 16:51:19,941: 	 Status on the CRAB server:	QUEUED on command SUBMIT
+INFO 2018-02-14 16:51:19,941: 	 Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/180214_225057%3Ashigginb_crab_20180214_164943
+DEBUG 2018-02-14 16:51:19,941: 	 The task has not been submitted to the Grid scheduler yet. Not printing job information.
+INFO 2018-02-14 16:51:19,999: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/crab.log
+DEBUG 2018-02-14 17:01:44,923: 	 Executing command: 'status'
+DEBUG 2018-02-14 17:01:44,923: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2018-02-14 17:01:44,931: 	 Checking credentials
+DEBUG 2018-02-14 17:01:44,931: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 17:01:44,931: 	 Getting proxy life time left
+DEBUG 2018-02-14 17:01:45,033: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35148
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:45,136: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35147
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:45,136: 	 Proxy valid for 09:45:48 hours
+DEBUG 2018-02-14 17:01:45,246: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:45,246: 	 Checking credentials
+DEBUG 2018-02-14 17:01:45,247: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 17:01:45,247: 	 Getting proxy life time left
+DEBUG 2018-02-14 17:01:45,350: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 35147
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:45,453: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 35147
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:45,453: 	 Proxy valid for 09:45:47 hours
+DEBUG 2018-02-14 17:01:46,461: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2018-02-14 17:01:46,569: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:46,569: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2018-02-14 17:01:46,570: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2018-02-14 17:01:47,374: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 693:05:38  (28.9 days)
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 17:01:47,377: 	 Myproxy is valid: 2495138
+DEBUG 2018-02-14 17:01:47,377: 	 Command use: status
+DEBUG 2018-02-14 17:01:47,377: 	 Options use: ['--verboseErrors', 'VBF/2018_MC_VBFtt/crab_20180214_164943/']
+DEBUG 2018-02-14 17:01:48,569: 	 CRABClient version: 3.3.1802
+DEBUG 2018-02-14 17:01:48,569: 	 Instance is prod
+DEBUG 2018-02-14 17:01:48,569: 	 Server base url is cmsweb.cern.ch
+DEBUG 2018-02-14 17:01:48,569: 	 Command url /crabserver/prod/workflow
+DEBUG 2018-02-14 17:01:49,689: 	 Got information from server oracle database: {u'result': [u'180214_225057:shigginb_crab_20180214_164943', u'None', u'None', u'SUBMITTED', u'SUBMIT', u'2018-02-14 22:50:57.408700', u'None', u'2018-02-14 22:51:46.828820', u'None', u'CMSSW_8_0_21', u'slc6_amd64_gcc530', u'/VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM', u'F', u'0', u'[]', u'[]', u'FileBased', u"{'splitOnRun': False, 'halt_job_on_file_boundaries': False, 'files_per_job': 1, 'runs': [], 'lumis': []}", u'0', u'9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz', u'https://cmsweb.cern.ch/crabcache', u'shigginb', u'/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham', u'cms', u'None', u'None', u'crab_20180214_164943-00000000000000000000000000000000', u'F', u'T3_US_FNALLPC', u'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', u'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', u'F', u'[]', u"['analysis.root']", u'[]', u'Analysis', u'pythia', u'None', u'{}', u'[]', u'F', u'vocms052', u'[]', u'1250', u'1', u'2000', u'10', u'None', u'[]', u'http://vocms0195.cern.ch/mon/cms1359/180214_225057:shigginb_crab_20180214_164943', u'None', u'[]', u'[]', u'https://cmsweb.cern.ch/crabserver/prod', u'cmsgwms-collector-global.cern.ch:9620,cmssrv221.fnal.gov:9620', u'crab3@vocms0195.cern.ch', u'F', u'[]', u'T', u'/store/user/shigginb/', u'F', u'None', u'F', u'None', u'VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8', u'None', u'2fe2e24c9e2312992627cf1a97c5b04dd660c538050cc35261118b29eb2d96ac.tar.gz', u'18061603', u'filetransfers', u'F', u'131.225.189.165'], u'desc': {u'columns': [u'tm_taskname', u'tm_activity', u'panda_jobset_id', u'tm_task_status', u'tm_task_command', u'tm_start_time', u'tm_start_injection', u'tm_end_injection', u'tm_task_failure', u'tm_job_sw', u'tm_job_arch', u'tm_input_dataset', u'tm_nonvalid_input_dataset', u'tm_use_parent', u'tm_site_whitelist', u'tm_site_blacklist', u'tm_split_algo', u'tm_split_args', u'tm_totalunits', u'tm_user_sandbox', u'tm_cache_url', u'tm_username', u'tm_user_dn', u'tm_user_vo', u'tm_user_role', u'tm_user_group', u'tm_publish_name', u'tm_publish_groupname', u'tm_asyncdest', u'tm_dbs_url', u'tm_publish_dbs_url', u'tm_publication', u'tm_outfiles', u'tm_tfile_outfiles', u'tm_edm_outfiles', u'tm_job_type', u'tm_generator', u'tm_events_per_lumi', u'tm_arguments', u'panda_resubmitted_jobs', u'tm_save_logs', u'tw_name', u'tm_user_infiles', u'tm_maxjobruntime', u'tm_numcores', u'tm_maxmemory', u'tm_priority', u'tm_output_dataset', u'tm_task_warnings', u'tm_user_webdir', u'tm_scriptexe', u'tm_scriptargs', u'tm_extrajdl', u'tm_asourl', u'tm_collector', u'tm_schedd', u'tm_dry_run', u'tm_user_files', u'tm_transfer_outputs', u'tm_output_lfn', u'tm_ignore_locality', u'tm_fail_limit', u'tm_one_event_mode', u'tm_secondary_input_dataset', u'tm_primary_dataset', u'tm_last_publication', u'tm_debug_files', u'clusterid', u'tm_asodb', u'tm_ignore_global_blacklist', u'tm_submitter_ip_addr']}}
+INFO 2018-02-14 17:01:49,689: 	 CRAB project directory:		/uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943
+INFO 2018-02-14 17:01:49,689: 	 Task name:			180214_225057:shigginb_crab_20180214_164943
+INFO 2018-02-14 17:01:49,690: 	 Grid scheduler:			crab3@vocms0195.cern.ch
+INFO 2018-02-14 17:01:49,690: 	 Status on the CRAB server:	SUBMITTED
+INFO 2018-02-14 17:01:49,690: 	 Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/180214_225057%3Ashigginb_crab_20180214_164943
+INFO 2018-02-14 17:01:49,690: 	 Dashboard monitoring URL:	http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=180214_225057%3Ashigginb_crab_20180214_164943
+DEBUG 2018-02-14 17:01:49,690: 	 The CRAB server submitted your task to the Grid scheduler (cluster ID: 18061603)
+DEBUG 2018-02-14 17:01:49,690: 	 Webdir is located at http://vocms0195.cern.ch/mon/cms1359/180214_225057:shigginb_crab_20180214_164943
+DEBUG 2018-02-14 17:01:50,779: 	 Proxied webdir is located at https://cmsweb.cern.ch/scheddmon/0195/cms1359/180214_225057:shigginb_crab_20180214_164943
+DEBUG 2018-02-14 17:01:50,779: 	 Retrieving 'status_cache' file from https://cmsweb.cern.ch/scheddmon/0195/cms1359/180214_225057:shigginb_crab_20180214_164943/status_cache
+DEBUG 2018-02-14 17:01:51,745: 	 Got information from status cache file: {'11': {'Retries': 0, 'WallDurations': [79.0], 'StartTimes': [1518648924.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061638.0'], 'TotalUserCpuTimeHistory': [7], 'EndTimes': [1518649003.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [13340], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '10': {'Retries': 0, 'WallDurations': [9.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061637.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [13920], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '13': {'Retries': 0, 'WallDurations': [76.0], 'StartTimes': [1518648925.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061679.0'], 'TotalUserCpuTimeHistory': [13], 'EndTimes': [1518649001.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [10064], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '12': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648935.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061639.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [2212], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '15': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648927.0], 'SubmitTimes': [1518648727.0], 'JobIds': ['18061641.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [30140], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '14': {'Retries': 0, 'WallDurations': [77.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648726.0], 'JobIds': ['18061640.0'], 'TotalUserCpuTimeHistory': [6], 'EndTimes': [1518649003.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14988], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '17': {'Retries': 0, 'WallDurations': [61.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061685.0'], 'TotalUserCpuTimeHistory': [7], 'EndTimes': [1518648987.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14880], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '16': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648929.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061683.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [16340], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '1': {'Retries': 0, 'WallDurations': [62.0], 'StartTimes': [1518648927.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061629.0'], 'TotalUserCpuTimeHistory': [6], 'EndTimes': [1518648989.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [27892], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '3': {'Retries': 0, 'WallDurations': [9.0], 'StartTimes': [1518648928.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061631.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [15324], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '2': {'Retries': 0, 'WallDurations': [9.0], 'StartTimes': [1518648930.0], 'SubmitTimes': [1518648721.0], 'JobIds': ['18061627.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [17224], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '5': {'Retries': 0, 'WallDurations': [64.0], 'StartTimes': [1518648928.0], 'SubmitTimes': [1518648724.0], 'JobIds': ['18061633.0'], 'TotalUserCpuTimeHistory': [6], 'EndTimes': [1518648992.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [30284], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '4': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061632.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [29860], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '7': {'Retries': 0, 'WallDurations': [150.0], 'StartTimes': [1518648925.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061635.0'], 'EndTimes': [1518649075.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'cooloff', 'ResidentSetSize': [2644], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '6': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648724.0], 'JobIds': ['18061634.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [2648], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '9': {'Retries': 0, 'WallDurations': [8.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061636.0'], 'EndTimes': [], 'Restarts': 0, 'RecordedSite': False, 'State': 'running', 'ResidentSetSize': [2644], 'TotalUserCpuTimeHistory': [0], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '8': {'Retries': 0, 'WallDurations': [62.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061681.0'], 'TotalUserCpuTimeHistory': [6], 'EndTimes': [1518648988.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14996], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}}
+INFO 2018-02-14 17:01:51,746: 	 Status on the scheduler:	SUBMITTED
+INFO 2018-02-14 17:01:51,746: 	 
+Jobs status:                    cooloff         5.9% ( 1/17)
+INFO 2018-02-14 17:01:51,746: 	 				failed         41.2% ( 7/17)
+INFO 2018-02-14 17:01:51,746: 	 				running        52.9% ( 9/17)
+INFO 2018-02-14 17:01:51,746: 	 
+No publication information (publication has been disabled in the CRAB configuration file)
+INFO 2018-02-14 17:01:51,747: 	 
+Error Summary:
+
+ 7 jobs failed with exit code 8001:
+
+	 7 jobs failed with following error message: (for example, job 1)
+
+		CmsRunFailure
+		CMSSW error message follows.
+		Fatal Exception
+		An exception of category 'PluginLibraryLoadError' occurred while
+		   [0] Constructing the EventProcessor
+		Exception Message:
+		unable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory
+
+Have a look at https://twiki.cern.ch/twiki/bin/viewauth/CMSPublic/JobExitCodes for a description of the exit codes.
+INFO 2018-02-14 17:01:51,790: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/crab.log
+DEBUG 2018-02-14 23:45:07,510: 	 Executing command: 'status'
+DEBUG 2018-02-14 23:45:07,518: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2018-02-14 23:45:07,559: 	 Checking credentials
+DEBUG 2018-02-14 23:45:07,559: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 23:45:07,559: 	 Getting proxy life time left
+DEBUG 2018-02-14 23:45:07,662: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 10945
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:07,766: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 10945
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:07,766: 	 Proxy valid for 03:02:25 hours
+DEBUG 2018-02-14 23:45:07,878: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:07,878: 	 Checking credentials
+DEBUG 2018-02-14 23:45:07,878: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-14 23:45:07,878: 	 Getting proxy life time left
+DEBUG 2018-02-14 23:45:07,982: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 10945
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:08,085: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 10944
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:08,085: 	 Proxy valid for 03:02:25 hours
+DEBUG 2018-02-14 23:45:08,976: 	 Registering user credentials for server /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+DEBUG 2018-02-14 23:45:09,084: 	 Executing : 
+ command : openssl x509 -in ~/.globus/usercert.pem -subject -noout
+ output : subject= /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:09,084: 	 Getting myproxy life time left for myproxy.cern.ch
+DEBUG 2018-02-14 23:45:09,084: 	 Calculating hash of /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham_cmsweb.cern.ch for credential name
+DEBUG 2018-02-14 23:45:09,989: 	 Executing : 
+ command : myproxy-info -l 2f318c7a260d78734589f2cc772d26b8be79ec6c -s myproxy.cern.ch
+ output : username: 2f318c7a260d78734589f2cc772d26b8be79ec6c
+owner: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham
+  renewal policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  trusted retrieval policy: /DC=ch/DC=cern/OU=computers/CN=vocms(045|052|021|031|0118|0118a|0119|0108|0105|0109).cern.ch
+  timeleft: 686:22:16  (28.6 days)
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-14 23:45:09,991: 	 Myproxy is valid: 2470936
+DEBUG 2018-02-14 23:45:09,991: 	 Command use: status
+DEBUG 2018-02-14 23:45:09,991: 	 Options use: ['--verboseErrors', 'VBF/2018_MC_VBFtt/crab_20180214_164943/']
+DEBUG 2018-02-14 23:45:11,107: 	 CRABClient version: 3.3.1802
+DEBUG 2018-02-14 23:45:11,108: 	 Instance is prod
+DEBUG 2018-02-14 23:45:11,108: 	 Server base url is cmsweb.cern.ch
+DEBUG 2018-02-14 23:45:11,108: 	 Command url /crabserver/prod/workflow
+DEBUG 2018-02-14 23:45:12,216: 	 Got information from server oracle database: {u'result': [u'180214_225057:shigginb_crab_20180214_164943', u'None', u'None', u'SUBMITTED', u'SUBMIT', u'2018-02-14 22:50:57.408700', u'None', u'2018-02-14 22:51:46.828820', u'None', u'CMSSW_8_0_21', u'slc6_amd64_gcc530', u'/VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8/RunIISpring16MiniAODv2-PUSpring16RAWAODSIM_reHLT_80X_mcRun2_asymptotic_v14-v1/MINIAODSIM', u'F', u'0', u'[]', u'[]', u'FileBased', u"{'splitOnRun': False, 'halt_job_on_file_boundaries': False, 'files_per_job': 1, 'runs': [], 'lumis': []}", u'0', u'9c6d1eafc427abf7b14496120555ce2e2c81d4747cabc2a1927417eacdc510fa.tar.gz', u'https://cmsweb.cern.ch/crabcache', u'shigginb', u'/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=shigginb/CN=785176/CN=Sam Higginbotham', u'cms', u'None', u'None', u'crab_20180214_164943-00000000000000000000000000000000', u'F', u'T3_US_FNALLPC', u'https://cmsweb.cern.ch/dbs/prod/global/DBSReader', u'https://cmsweb.cern.ch/dbs/prod/phys03/DBSWriter', u'F', u'[]', u"['analysis.root']", u'[]', u'Analysis', u'pythia', u'None', u'{}', u'[]', u'F', u'vocms052', u'[]', u'1250', u'1', u'2000', u'10', u'None', u'[]', u'http://vocms0195.cern.ch/mon/cms1359/180214_225057:shigginb_crab_20180214_164943', u'None', u'[]', u'[]', u'https://cmsweb.cern.ch/crabserver/prod', u'cmsgwms-collector-global.cern.ch:9620,cmssrv221.fnal.gov:9620', u'crab3@vocms0195.cern.ch', u'F', u'[]', u'T', u'/store/user/shigginb/', u'F', u'None', u'F', u'None', u'VBFHToTauTau_M125_13TeV_amcatnloFXFX_pythia8', u'None', u'2fe2e24c9e2312992627cf1a97c5b04dd660c538050cc35261118b29eb2d96ac.tar.gz', u'18061603', u'filetransfers', u'F', u'131.225.189.165'], u'desc': {u'columns': [u'tm_taskname', u'tm_activity', u'panda_jobset_id', u'tm_task_status', u'tm_task_command', u'tm_start_time', u'tm_start_injection', u'tm_end_injection', u'tm_task_failure', u'tm_job_sw', u'tm_job_arch', u'tm_input_dataset', u'tm_nonvalid_input_dataset', u'tm_use_parent', u'tm_site_whitelist', u'tm_site_blacklist', u'tm_split_algo', u'tm_split_args', u'tm_totalunits', u'tm_user_sandbox', u'tm_cache_url', u'tm_username', u'tm_user_dn', u'tm_user_vo', u'tm_user_role', u'tm_user_group', u'tm_publish_name', u'tm_publish_groupname', u'tm_asyncdest', u'tm_dbs_url', u'tm_publish_dbs_url', u'tm_publication', u'tm_outfiles', u'tm_tfile_outfiles', u'tm_edm_outfiles', u'tm_job_type', u'tm_generator', u'tm_events_per_lumi', u'tm_arguments', u'panda_resubmitted_jobs', u'tm_save_logs', u'tw_name', u'tm_user_infiles', u'tm_maxjobruntime', u'tm_numcores', u'tm_maxmemory', u'tm_priority', u'tm_output_dataset', u'tm_task_warnings', u'tm_user_webdir', u'tm_scriptexe', u'tm_scriptargs', u'tm_extrajdl', u'tm_asourl', u'tm_collector', u'tm_schedd', u'tm_dry_run', u'tm_user_files', u'tm_transfer_outputs', u'tm_output_lfn', u'tm_ignore_locality', u'tm_fail_limit', u'tm_one_event_mode', u'tm_secondary_input_dataset', u'tm_primary_dataset', u'tm_last_publication', u'tm_debug_files', u'clusterid', u'tm_asodb', u'tm_ignore_global_blacklist', u'tm_submitter_ip_addr']}}
+INFO 2018-02-14 23:45:12,217: 	 CRAB project directory:		/uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943
+INFO 2018-02-14 23:45:12,217: 	 Task name:			180214_225057:shigginb_crab_20180214_164943
+INFO 2018-02-14 23:45:12,217: 	 Grid scheduler:			crab3@vocms0195.cern.ch
+INFO 2018-02-14 23:45:12,217: 	 Status on the CRAB server:	SUBMITTED
+INFO 2018-02-14 23:45:12,217: 	 Task URL to use for HELP:	https://cmsweb.cern.ch/crabserver/ui/task/180214_225057%3Ashigginb_crab_20180214_164943
+INFO 2018-02-14 23:45:12,217: 	 Dashboard monitoring URL:	http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=180214_225057%3Ashigginb_crab_20180214_164943
+DEBUG 2018-02-14 23:45:12,217: 	 The CRAB server submitted your task to the Grid scheduler (cluster ID: 18061603)
+DEBUG 2018-02-14 23:45:12,217: 	 Webdir is located at http://vocms0195.cern.ch/mon/cms1359/180214_225057:shigginb_crab_20180214_164943
+DEBUG 2018-02-14 23:45:13,629: 	 Proxied webdir is located at https://cmsweb.cern.ch/scheddmon/0195/cms1359/180214_225057:shigginb_crab_20180214_164943
+DEBUG 2018-02-14 23:45:13,630: 	 Retrieving 'status_cache' file from https://cmsweb.cern.ch/scheddmon/0195/cms1359/180214_225057:shigginb_crab_20180214_164943/status_cache
+DEBUG 2018-02-14 23:45:14,840: 	 Got information from status cache file: {'11': {'Retries': 0, 'WallDurations': [79.0], 'StartTimes': [1518648924.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061638.0'], 'EndTimes': [1518649003.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [13340], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [7], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '10': {'Retries': 0, 'WallDurations': [382.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061637.0'], 'TotalUserCpuTimeHistory': [10], 'EndTimes': [1518649308.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [21260], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [2]}, '13': {'Retries': 0, 'WallDurations': [76.0], 'StartTimes': [1518648925.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061679.0'], 'EndTimes': [1518649001.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [10064], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [13], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '12': {'Retries': 0, 'WallDurations': [390.0], 'StartTimes': [1518648935.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061639.0'], 'TotalUserCpuTimeHistory': [7], 'EndTimes': [1518649325.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [23612], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [3]}, '15': {'Retries': 0, 'WallDurations': [387.0], 'StartTimes': [1518648927.0], 'SubmitTimes': [1518648727.0], 'JobIds': ['18061641.0'], 'TotalUserCpuTimeHistory': [9], 'EndTimes': [1518649314.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [30140], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [3]}, '14': {'Retries': 0, 'WallDurations': [77.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648726.0], 'JobIds': ['18061640.0'], 'EndTimes': [1518649003.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14988], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '17': {'Retries': 0, 'WallDurations': [61.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061685.0'], 'EndTimes': [1518648987.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14880], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [7], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '16': {'Retries': 0, 'WallDurations': [389.0], 'StartTimes': [1518648929.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061683.0'], 'TotalUserCpuTimeHistory': [10], 'EndTimes': [1518649318.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [21500], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [3]}, '1': {'Retries': 0, 'WallDurations': [62.0], 'StartTimes': [1518648927.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061629.0'], 'EndTimes': [1518648989.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [27892], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '3': {'Retries': 0, 'WallDurations': [397.0], 'StartTimes': [1518648928.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061631.0'], 'TotalUserCpuTimeHistory': [6], 'EndTimes': [1518649325.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [21516], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [3]}, '2': {'Retries': 0, 'WallDurations': [394.0], 'StartTimes': [1518648930.0], 'SubmitTimes': [1518648721.0], 'JobIds': ['18061627.0'], 'TotalUserCpuTimeHistory': [7], 'EndTimes': [1518649324.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [21316], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [2]}, '5': {'Retries': 0, 'WallDurations': [64.0], 'StartTimes': [1518648928.0], 'SubmitTimes': [1518648724.0], 'JobIds': ['18061633.0'], 'EndTimes': [1518648992.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [30284], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '4': {'Retries': 0, 'WallDurations': [392.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648722.0], 'JobIds': ['18061632.0'], 'TotalUserCpuTimeHistory': [8], 'EndTimes': [1518649318.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [29860], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [5]}, '7': {'Retries': 0, 'WallDurations': [150.0], 'StartTimes': [1518648925.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061635.0'], 'EndTimes': [1518649075.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [2644], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}, '6': {'Retries': 0, 'WallDurations': [187.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648724.0], 'JobIds': ['18061634.0'], 'TotalUserCpuTimeHistory': [4], 'EndTimes': [1518649113.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [2648], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [2]}, '9': {'Retries': 0, 'WallDurations': [255.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648725.0], 'JobIds': ['18061636.0'], 'TotalUserCpuTimeHistory': [3], 'EndTimes': [1518649181.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [2644], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [0]}, '8': {'Retries': 0, 'WallDurations': [62.0], 'StartTimes': [1518648926.0], 'SubmitTimes': [1518648732.0], 'JobIds': ['18061681.0'], 'EndTimes': [1518648988.0], 'Restarts': 0, 'RecordedSite': False, 'State': 'failed', 'ResidentSetSize': [14996], 'Error': [8001, "CmsRunFailure\nCMSSW error message follows.\nFatal Exception\nAn exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory\n", {'type': 'Fatal Exception', 'details': "An exception of category 'PluginLibraryLoadError' occurred while\n   [0] Constructing the EventProcessor\nException Message:\nunable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory", 'exitCode': '8001'}], 'TotalUserCpuTimeHistory': [6], 'SiteHistory': ['Unknown'], 'TotalSysCpuTimeHistory': [1]}}
+INFO 2018-02-14 23:45:14,840: 	 Status on the scheduler:	FAILED
+INFO 2018-02-14 23:45:14,840: 	 
+Jobs status:                    failed        100.0% (17/17)
+INFO 2018-02-14 23:45:14,841: 	 
+No publication information (publication has been disabled in the CRAB configuration file)
+INFO 2018-02-14 23:45:14,841: 	 
+Error Summary:
+
+16 jobs failed with exit code 8001:
+
+	16 jobs failed with following error message: (for example, job 1)
+
+		CmsRunFailure
+		CMSSW error message follows.
+		Fatal Exception
+		An exception of category 'PluginLibraryLoadError' occurred while
+		   [0] Constructing the EventProcessor
+		Exception Message:
+		unable to load /srv/CMSSW_8_0_21/lib/slc6_amd64_gcc530/pluginPUAnalysisRecoTools_plugins.so because libmcfm_705.so: cannot open shared object file: No such file or directory
+
+Could not find exit code details for 1 jobs.
+
+Have a look at https://twiki.cern.ch/twiki/bin/viewauth/CMSPublic/JobExitCodes for a description of the exit codes.
+INFO 2018-02-14 23:45:14,899: 	 Log file is /uscms_data/d3/samuellh/WorkingArea/CpHiggs/CMSSW_8_0_21/src/PUAnalysis/VBFtt2017/crab/VBF/2018_MC_VBFtt/crab_20180214_164943/crab.log

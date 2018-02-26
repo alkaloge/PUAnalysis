@@ -1,0 +1,42 @@
+DEBUG 2018-02-23 15:24:05,445: 	 Executing command: 'submit'
+DEBUG 2018-02-23 15:24:05,446: 	 Found CRAB cache file /uscms/home/samuellh/.crab3
+DEBUG 2018-02-23 15:24:05,464: 	 Checking credentials
+DEBUG 2018-02-23 15:24:05,465: 	 Found proxy file /tmp/x509up_u52190
+DEBUG 2018-02-23 15:24:05,465: 	 Getting proxy life time left
+DEBUG 2018-02-23 15:24:05,568: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -timeleft
+ output : 39217
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-23 15:24:05,672: 	 Executing : 
+ command : voms-proxy-info -file /tmp/x509up_u52190 -actimeleft
+ output : 39216
+
+ error: 
+ retcode : 0
+DEBUG 2018-02-23 15:24:05,672: 	 Proxy valid for 10:53:37 hours
+INFO 2018-02-23 15:24:05,673: 	 Will use CRAB configuration file crab3_cp_mc.py
+DEBUG 2018-02-23 15:24:05,673: 	 Loading CRAB configuration file.
+ERROR 2018-02-23 15:24:05,705: 	 Error while loading CRAB configuration:
+No module named VBFtt2017.datasets
+Please refer to https://twiki.cern.ch/twiki/bin/view/CMSPublic/CRAB3CommonErrors#Syntax_error_in_CRAB_configurati
+See the ./crab.log file for more details.
+The documentation about the CRAB configuration file can be found in https://twiki.cern.ch/twiki/bin/view/CMSPublic/CRAB3ConfigurationFile
+ERROR 2018-02-23 15:24:05,705: 	 Caught exception
+Traceback (most recent call last):
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1802/bin/crab", line 160, in <module>
+    client()
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1802/bin/crab", line 146, in __call__
+    self.cmd = sub_cmd(self.logger, args[1:])
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1802/lib/python2.7/site-packages/CRABClient/Commands/submit.py", line 34, in __init__
+    SubCommand.__init__(self, logger, cmdargs, disable_interspersed_args=True)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1802/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 300, in __init__
+    self.loadConfig(self.options.config, self.args)
+  File "/cvmfs/cms.cern.ch/crab3/slc6_amd64_gcc493/cms/crabclient/3.3.1802/lib/python2.7/site-packages/CRABClient/Commands/SubCommand.py", line 84, in loadConfig
+    raise ConfigurationException(configmsg)
+ConfigurationException: Error while loading CRAB configuration:
+No module named VBFtt2017.datasets
+Please refer to https://twiki.cern.ch/twiki/bin/view/CMSPublic/CRAB3CommonErrors#Syntax_error_in_CRAB_configurati
+See the ./crab.log file for more details.
+The documentation about the CRAB configuration file can be found in https://twiki.cern.ch/twiki/bin/view/CMSPublic/CRAB3ConfigurationFile

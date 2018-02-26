@@ -1,0 +1,1843 @@
+[samuellh@cmslpc29 crab]$ bash jobs.sh --submit
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DYJetsToLL_M-10to50_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131738:shigginb_crab_20171115_071712
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF1/crab_20171115_071712/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GluGluHToZZTo4L_M125_14TeV_powheg2_JHUgenV702_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131803:shigginb_crab_20171115_071738
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF10/crab_20171115_071738/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GluGluToHHTo2B2G_node_SM_14TeV-madgraph/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131832:shigginb_crab_20171115_071805
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF11/crab_20171115_071805/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GluGluToHHTo4B_node_SM_14TeV-madgraph/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131858:shigginb_crab_20171115_071833
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF12/crab_20171115_071833/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GluGlu_HToMuMu_M125_14TeV_powheg_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131924:shigginb_crab_20171115_071859
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF13/crab_20171115_071859/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /QCD_Flat_Pt-15to7000_TuneCUETP8M1_14TeV_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_131950:shigginb_crab_20171115_071925
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF14/crab_20171115_071925/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /QCD_Mdijet-1000toInf_TuneCUETP8M1_14TeV-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132016:shigginb_crab_20171115_071952
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF15/crab_20171115_071952/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /RSGluonToTT_M-3000_TuneCUETP8M1_14TeV-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132043:shigginb_crab_20171115_072017
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF16/crab_20171115_072017/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /RSGluonToTT_M-5000_TuneCUETP8M1_14TeV-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132111:shigginb_crab_20171115_072044
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF17/crab_20171115_072044/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TChiWZ_ZToLL_mChargino-300_mLsp-250_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132139:shigginb_crab_20171115_072112
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF18/crab_20171115_072112/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TChiWZ_ZToLL_mChargino-300_mLsp-292p5_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132208:shigginb_crab_20171115_072139
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF19/crab_20171115_072139/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DYToLL-M-50_0J_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132234:shigginb_crab_20171115_072209
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF2/crab_20171115_072209/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TChiWZ_ZToLL_mChargino-400_mLsp-375_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132302:shigginb_crab_20171115_072236
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF20/crab_20171115_072236/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-100_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132329:shigginb_crab_20171115_072303
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF21/crab_20171115_072303/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-200_mLSP-100_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132355:shigginb_crab_20171115_072330
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF22/crab_20171115_072330/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-200_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132422:shigginb_crab_20171115_072358
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF23/crab_20171115_072358/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-300_mLSP-100_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132449:shigginb_crab_20171115_072423
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF24/crab_20171115_072423/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-300_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132515:shigginb_crab_20171115_072450
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF25/crab_20171115_072450/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-300_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132543:shigginb_crab_20171115_072516
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-400_mLSP-100_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132612:shigginb_crab_20171115_072544
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF27/crab_20171115_072544/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-400_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132639:shigginb_crab_20171115_072613
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF28/crab_20171115_072613/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-400_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132706:shigginb_crab_20171115_072640
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF29/crab_20171115_072640/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DYToLL-M-50_1J_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132731:shigginb_crab_20171115_072707
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF3/crab_20171115_072707/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-400_mLSP-300_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132803:shigginb_crab_20171115_072732
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF30/crab_20171115_072732/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-500_mLSP-100_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132830:shigginb_crab_20171115_072804
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF31/crab_20171115_072804/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-500_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132859:shigginb_crab_20171115_072831
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF32/crab_20171115_072831/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-500_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132924:shigginb_crab_20171115_072900
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF33/crab_20171115_072900/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-500_mLSP-300_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_132951:shigginb_crab_20171115_072926
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF34/crab_20171115_072926/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-600_mLSP-100_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133017:shigginb_crab_20171115_072952
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF35/crab_20171115_072952/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-600_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133043:shigginb_crab_20171115_073018
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF36/crab_20171115_073018/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-600_mLSP-200_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133110:shigginb_crab_20171115_073045
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF37/crab_20171115_073045/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-600_mLSP-300_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133135:shigginb_crab_20171115_073111
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF38/crab_20171115_073111/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /SMS-TStauStau_mStau-800_mLSP-1_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133201:shigginb_crab_20171115_073136
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF39/crab_20171115_073136/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DYToLL-M-50_2J_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133228:shigginb_crab_20171115_073202
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF4/crab_20171115_073202/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ST_tch_14TeV_antitop_incl-powheg-pythia8-madspin/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133254:shigginb_crab_20171115_073229
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF40/crab_20171115_073229/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TTGamma_SingleLeptFromT_TuneCUETP8M1_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133324:shigginb_crab_20171115_073255
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF41/crab_20171115_073255/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TTGamma_SingleLeptFromTbar_TuneCUETP8M1_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133352:shigginb_crab_20171115_073326
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF42/crab_20171115_073326/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TTTo2L2Nu_TuneCUETP8M1_14TeV-powheg-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133418:shigginb_crab_20171115_073352
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF43/crab_20171115_073352/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TT_Mtt1500toInf_TuneCUETP8M1_14TeV-powheg-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133444:shigginb_crab_20171115_073419
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF44/crab_20171115_073419/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TT_TuneCUETP8M2T4_14TeV-powheg-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133511:shigginb_crab_20171115_073445
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF45/crab_20171115_073445/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-1000_Width-10p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133538:shigginb_crab_20171115_073511
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF46/crab_20171115_073511/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-1000_Width-20p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133606:shigginb_crab_20171115_073539
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF47/crab_20171115_073539/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-1000_Width-30p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133633:shigginb_crab_20171115_073607
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF48/crab_20171115_073607/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-1500_Width-20p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133659:shigginb_crab_20171115_073633
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF49/crab_20171115_073633/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DYToLL-M-50_3J_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133728:shigginb_crab_20171115_073700
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF5/crab_20171115_073700/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-2000_Width-10p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133757:shigginb_crab_20171115_073730
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF50/crab_20171115_073730/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-2000_Width-20p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133825:shigginb_crab_20171115_073758
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF51/crab_20171115_073758/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-2500_Width-10p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133854:shigginb_crab_20171115_073826
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF52/crab_20171115_073826/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-2500_Width-20p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133923:shigginb_crab_20171115_073856
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF53/crab_20171115_073856/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-2500_Width-30p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_133953:shigginb_crab_20171115_073924
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF54/crab_20171115_073924/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-3000_Width-10p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134020:shigginb_crab_20171115_073954
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF55/crab_20171115_073954/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-3000_Width-20p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134048:shigginb_crab_20171115_074022
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF56/crab_20171115_074022/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /TprimeBToTH_M-3000_Width-30p_LH_TuneCUETP8M2T4_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134113:shigginb_crab_20171115_074049
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF57/crab_20171115_074049/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFHToGG_M125_14TeV_amcatnlo_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134143:shigginb_crab_20171115_074115
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF58/crab_20171115_074115/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFHToTauTau_M125_14TeV_powheg_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134213:shigginb_crab_20171115_074145
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF59/crab_20171115_074145/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /DiPhotonJetsBox_MGG-80toInf_14TeV-Sherpa/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134243:shigginb_crab_20171115_074214
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF6/crab_20171115_074214/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFToHHTo2B2G_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134315:shigginb_crab_20171115_074245
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF60/crab_20171115_074245/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFToHHTo2B2Tau_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134342:shigginb_crab_20171115_074315
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF61/crab_20171115_074315/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFToHHTo2B2VTo2L2Nu_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134412:shigginb_crab_20171115_074343
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF62/crab_20171115_074343/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBFToHHTo4B_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134440:shigginb_crab_20171115_074413
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF63/crab_20171115_074413/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBF_HToInvisible_M125_14TeV_powheg_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134506:shigginb_crab_20171115_074442
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF64/crab_20171115_074442/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBF_HToZZTo4L_M125_14TeV_powheg2_JHUgenV702_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134535:shigginb_crab_20171115_074509
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF65/crab_20171115_074509/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBF_RS_bulk_M1500_W01pc_14TeV-madgraph/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134615:shigginb_crab_20171115_074539
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF66/crab_20171115_074539/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /VBF_RS_bulk_M3000_W05pc_14TeV-madgraph/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134643:shigginb_crab_20171115_074616
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF67/crab_20171115_074616/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WToLNu_3J_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134714:shigginb_crab_20171115_074644
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF68/crab_20171115_074644/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WWG_TuneCUETP8M1_14TeV-amcatnlo-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134739:shigginb_crab_20171115_074715
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF69/crab_20171115_074715/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /EWKZ2Jets_ZToLL_M-50_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134806:shigginb_crab_20171115_074740
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF7/crab_20171115_074740/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WWJJ_SS_WToLNu_EWK_TuneCUETP8M1_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134835:shigginb_crab_20171115_074808
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF70/crab_20171115_074808/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WZTo3LNu_0Jets_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134907:shigginb_crab_20171115_074841
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF71/crab_20171115_074841/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WZTo3LNu_1Jets_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_134947:shigginb_crab_20171115_074915
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF72/crab_20171115_074915/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /WZZ_TuneCUETP8M1_14TeV-amcatnlo-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135014:shigginb_crab_20171115_074948
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF73/crab_20171115_074948/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZGTo2LG_TuneCUETP8M1_14TeV-amcatnloFXFX-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135041:shigginb_crab_20171115_075015
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF74/crab_20171115_075015/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZH_HToZZ_M125_14TeV_powheg2-minlo-HZJ_JHUgenV702_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135107:shigginb_crab_20171115_075041
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF75/crab_20171115_075041/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZJetsToNuNu_HT-1200To2500_14TeV-madgraph/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135141:shigginb_crab_20171115_075113
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF76/crab_20171115_075113/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZZTo4L_14TeV_powheg_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135213:shigginb_crab_20171115_075144
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF77/crab_20171115_075144/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZZTo4L_14TeV_powheg_pythia8_v2/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135244:shigginb_crab_20171115_075214
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF78/crab_20171115_075214/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ZZZ_TuneCUETP8M1_14TeV-amcatnlo-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135312:shigginb_crab_20171115_075245
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF79/crab_20171115_075245/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GJet_Pt-40toInf_DoubleEMEnriched_MGG-80toInf_TuneCUETP8M1_14TeV_Pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135338:shigginb_crab_20171115_075313
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF8/crab_20171115_075313/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /ttH_HToZZ_4L_M125_14TeV_powheg2_JHUgenV702_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135405:shigginb_crab_20171115_075341
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF80/crab_20171115_075341/crab.log
+Will use CRAB configuration file crab3_TT_MC.py
+Submitting jobs for dataset /GluGluHToGG_M125_14TeV_amcatnloFXFX_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM
+Importing CMSSW configuration ../../../TT-MC-Up.py
+Finished importing CMSSW configuration ../../../TT-MC-Up.py
+Sending the request to the server
+Success: Your task has been delivered to the CRAB3 server.
+Task name: 171115_135436:shigginb_crab_20171115_075411
+Please use 'crab status' to check how the submission process proceeds.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF9/crab_20171115_075411/crab.log
+[samuellh@cmslpc29 crab]$ bash jobs.sh --status
+
+---------------------- VBF1/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF1/crab_20171115_071712
+Task name:                      171115_131738:shigginb_crab_20171115_071712
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131738%3Ashigginb_crab_20171115_071712
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131738%3Ashigginb_crab_20171115_071712
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       66.7% (2/3)
+                                running        33.3% (1/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF1/crab_20171115_071712/crab.log
+
+---------------------- VBF10/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF10/crab_20171115_071738
+Task name:                      171115_131803:shigginb_crab_20171115_071738
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131803%3Ashigginb_crab_20171115_071738
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131803%3Ashigginb_crab_20171115_071738
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF10/crab_20171115_071738/crab.log
+
+---------------------- VBF11/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF11/crab_20171115_071805
+Task name:                      171115_131832:shigginb_crab_20171115_071805
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131832%3Ashigginb_crab_20171115_071805
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131832%3Ashigginb_crab_20171115_071805
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       60.0% (3/5)
+                                running        40.0% (2/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF11/crab_20171115_071805/crab.log
+
+---------------------- VBF12/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF12/crab_20171115_071833
+Task name:                      171115_131858:shigginb_crab_20171115_071833
+Grid scheduler:                 crab3@vocms0106.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131858%3Ashigginb_crab_20171115_071833
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131858%3Ashigginb_crab_20171115_071833
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF12/crab_20171115_071833/crab.log
+
+---------------------- VBF13/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF13/crab_20171115_071859
+Task name:                      171115_131924:shigginb_crab_20171115_071859
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131924%3Ashigginb_crab_20171115_071859
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131924%3Ashigginb_crab_20171115_071859
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (3/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF13/crab_20171115_071859/crab.log
+
+---------------------- VBF14/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF14/crab_20171115_071925
+Task name:                      171115_131950:shigginb_crab_20171115_071925
+Grid scheduler:                 crab3@vocms0120.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_131950%3Ashigginb_crab_20171115_071925
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_131950%3Ashigginb_crab_20171115_071925
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       60.6% (40/66)
+                                running        39.4% (26/66)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF14/crab_20171115_071925/crab.log
+
+---------------------- VBF15/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF15/crab_20171115_071952
+Task name:                      171115_132016:shigginb_crab_20171115_071952
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132016%3Ashigginb_crab_20171115_071952
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132016%3Ashigginb_crab_20171115_071952
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       75.0% (24/32)
+                                running        25.0% ( 8/32)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF15/crab_20171115_071952/crab.log
+
+---------------------- VBF16/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF16/crab_20171115_072017
+Task name:                      171115_132043:shigginb_crab_20171115_072017
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132043%3Ashigginb_crab_20171115_072017
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /RSGluonToTT_M-3000_TuneCUETP8M1_14TeV-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF16/crab_20171115_072017/crab.log
+
+---------------------- VBF17/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF17/crab_20171115_072044
+Task name:                      171115_132111:shigginb_crab_20171115_072044
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132111%3Ashigginb_crab_20171115_072044
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132111%3Ashigginb_crab_20171115_072044
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       87.5% (7/8)
+                                running        12.5% (1/8)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF17/crab_20171115_072044/crab.log
+
+---------------------- VBF18/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF18/crab_20171115_072112
+Task name:                      171115_132139:shigginb_crab_20171115_072112
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132139%3Ashigginb_crab_20171115_072112
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132139%3Ashigginb_crab_20171115_072112
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF18/crab_20171115_072112/crab.log
+
+---------------------- VBF19/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF19/crab_20171115_072139
+Task name:                      171115_132208:shigginb_crab_20171115_072139
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132208%3Ashigginb_crab_20171115_072139
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132208%3Ashigginb_crab_20171115_072139
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF19/crab_20171115_072139/crab.log
+
+---------------------- VBF2/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF2/crab_20171115_072209
+Task name:                      171115_132234:shigginb_crab_20171115_072209
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132234%3Ashigginb_crab_20171115_072209
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132234%3Ashigginb_crab_20171115_072209
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       86.4% (19/22)
+                                running        13.6% ( 3/22)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF2/crab_20171115_072209/crab.log
+
+---------------------- VBF20/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF20/crab_20171115_072236
+Task name:                      171115_132302:shigginb_crab_20171115_072236
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132302%3Ashigginb_crab_20171115_072236
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /SMS-TChiWZ_ZToLL_mChargino-400_mLsp-375_TuneCUETP8M1_14TeV-madgraphMLM-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF20/crab_20171115_072236/crab.log
+
+---------------------- VBF21/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF21/crab_20171115_072303
+Task name:                      171115_132329:shigginb_crab_20171115_072303
+Grid scheduler:                 crab3@vocms0144.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132329%3Ashigginb_crab_20171115_072303
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132329%3Ashigginb_crab_20171115_072303
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (4/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF21/crab_20171115_072303/crab.log
+
+---------------------- VBF22/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF22/crab_20171115_072330
+Task name:                      171115_132355:shigginb_crab_20171115_072330
+Grid scheduler:                 crab3@vocms0106.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132355%3Ashigginb_crab_20171115_072330
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132355%3Ashigginb_crab_20171115_072330
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF22/crab_20171115_072330/crab.log
+
+---------------------- VBF23/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF23/crab_20171115_072358
+Task name:                      171115_132422:shigginb_crab_20171115_072358
+Grid scheduler:                 crab3@vocms0119.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132422%3Ashigginb_crab_20171115_072358
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132422%3Ashigginb_crab_20171115_072358
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (3/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF23/crab_20171115_072358/crab.log
+
+---------------------- VBF24/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF24/crab_20171115_072423
+Task name:                      171115_132449:shigginb_crab_20171115_072423
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132449%3Ashigginb_crab_20171115_072423
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132449%3Ashigginb_crab_20171115_072423
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       75.0% (3/4)
+                                running        25.0% (1/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF24/crab_20171115_072423/crab.log
+
+---------------------- VBF25/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF25/crab_20171115_072450
+Task name:                      171115_132515:shigginb_crab_20171115_072450
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132515%3Ashigginb_crab_20171115_072450
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132515%3Ashigginb_crab_20171115_072450
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       40.0% (2/5)
+                                running        60.0% (3/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF25/crab_20171115_072450/crab.log
+
+---------------------- VBF26/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516
+Task name:                      171115_132543:shigginb_crab_20171115_072516
+Grid scheduler:                 crab3@vocms0196.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132543%3Ashigginb_crab_20171115_072516
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132543%3Ashigginb_crab_20171115_072516
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF26/crab_20171115_072516/crab.log
+
+---------------------- VBF27/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF27/crab_20171115_072544
+Task name:                      171115_132612:shigginb_crab_20171115_072544
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132612%3Ashigginb_crab_20171115_072544
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132612%3Ashigginb_crab_20171115_072544
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (6/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF27/crab_20171115_072544/crab.log
+
+---------------------- VBF28/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF28/crab_20171115_072613
+Task name:                      171115_132639:shigginb_crab_20171115_072613
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132639%3Ashigginb_crab_20171115_072613
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132639%3Ashigginb_crab_20171115_072613
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (3/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF28/crab_20171115_072613/crab.log
+
+---------------------- VBF29/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF29/crab_20171115_072640
+Task name:                      171115_132706:shigginb_crab_20171115_072640
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132706%3Ashigginb_crab_20171115_072640
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132706%3Ashigginb_crab_20171115_072640
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (4/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF29/crab_20171115_072640/crab.log
+
+---------------------- VBF3/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF3/crab_20171115_072707
+Task name:                      171115_132731:shigginb_crab_20171115_072707
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132731%3Ashigginb_crab_20171115_072707
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132731%3Ashigginb_crab_20171115_072707
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       74.0% (37/50)
+                                running        26.0% (13/50)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF3/crab_20171115_072707/crab.log
+
+---------------------- VBF30/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF30/crab_20171115_072732
+Task name:                      171115_132803:shigginb_crab_20171115_072732
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132803%3Ashigginb_crab_20171115_072732
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132803%3Ashigginb_crab_20171115_072732
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       66.7% (2/3)
+                                running        33.3% (1/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF30/crab_20171115_072732/crab.log
+
+---------------------- VBF31/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF31/crab_20171115_072804
+Task name:                      171115_132830:shigginb_crab_20171115_072804
+Grid scheduler:                 crab3@vocms0106.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132830%3Ashigginb_crab_20171115_072804
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132830%3Ashigginb_crab_20171115_072804
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (3/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF31/crab_20171115_072804/crab.log
+
+---------------------- VBF32/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF32/crab_20171115_072831
+Task name:                      171115_132859:shigginb_crab_20171115_072831
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132859%3Ashigginb_crab_20171115_072831
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132859%3Ashigginb_crab_20171115_072831
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF32/crab_20171115_072831/crab.log
+
+---------------------- VBF33/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF33/crab_20171115_072900
+Task name:                      171115_132924:shigginb_crab_20171115_072900
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132924%3Ashigginb_crab_20171115_072900
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132924%3Ashigginb_crab_20171115_072900
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (4/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF33/crab_20171115_072900/crab.log
+
+---------------------- VBF34/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF34/crab_20171115_072926
+Task name:                      171115_132951:shigginb_crab_20171115_072926
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_132951%3Ashigginb_crab_20171115_072926
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_132951%3Ashigginb_crab_20171115_072926
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       83.3% (5/6)
+                                running        16.7% (1/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF34/crab_20171115_072926/crab.log
+
+---------------------- VBF35/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF35/crab_20171115_072952
+Task name:                      171115_133017:shigginb_crab_20171115_072952
+Grid scheduler:                 crab3@vocms0144.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133017%3Ashigginb_crab_20171115_072952
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133017%3Ashigginb_crab_20171115_072952
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF35/crab_20171115_072952/crab.log
+
+---------------------- VBF36/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF36/crab_20171115_073018
+Task name:                      171115_133043:shigginb_crab_20171115_073018
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133043%3Ashigginb_crab_20171115_073018
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133043%3Ashigginb_crab_20171115_073018
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (7/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF36/crab_20171115_073018/crab.log
+
+---------------------- VBF37/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF37/crab_20171115_073045
+Task name:                      171115_133110:shigginb_crab_20171115_073045
+Grid scheduler:                 crab3@vocms0144.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133110%3Ashigginb_crab_20171115_073045
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133110%3Ashigginb_crab_20171115_073045
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (6/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF37/crab_20171115_073045/crab.log
+
+---------------------- VBF38/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF38/crab_20171115_073111
+Task name:                      171115_133135:shigginb_crab_20171115_073111
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133135%3Ashigginb_crab_20171115_073111
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133135%3Ashigginb_crab_20171115_073111
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (4/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF38/crab_20171115_073111/crab.log
+
+---------------------- VBF39/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF39/crab_20171115_073136
+Task name:                      171115_133201:shigginb_crab_20171115_073136
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133201%3Ashigginb_crab_20171115_073136
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133201%3Ashigginb_crab_20171115_073136
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       88.9% (8/9)
+                                running        11.1% (1/9)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF39/crab_20171115_073136/crab.log
+
+---------------------- VBF4/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF4/crab_20171115_073202
+Task name:                      171115_133228:shigginb_crab_20171115_073202
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133228%3Ashigginb_crab_20171115_073202
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133228%3Ashigginb_crab_20171115_073202
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    failed          2.6% ( 1/39)
+                                finished       71.8% (28/39)
+                                running        23.1% ( 9/39)
+                                transferring    2.6% ( 1/39)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+
+Error Summary: (use crab status --verboseErrors for details about the errors)
+
+ 1 jobs failed with exit code 50660
+
+Have a look at https://twiki.cern.ch/twiki/bin/viewauth/CMSPublic/JobExitCodes for a description of the exit codes.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF4/crab_20171115_073202/crab.log
+
+---------------------- VBF40/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF40/crab_20171115_073229
+Task name:                      171115_133254:shigginb_crab_20171115_073229
+Grid scheduler:                 crab3@vocms0196.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133254%3Ashigginb_crab_20171115_073229
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133254%3Ashigginb_crab_20171115_073229
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (12/12)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF40/crab_20171115_073229/crab.log
+
+---------------------- VBF41/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF41/crab_20171115_073255
+Task name:                      171115_133324:shigginb_crab_20171115_073255
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133324%3Ashigginb_crab_20171115_073255
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133324%3Ashigginb_crab_20171115_073255
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF41/crab_20171115_073255/crab.log
+
+---------------------- VBF42/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF42/crab_20171115_073326
+Task name:                      171115_133352:shigginb_crab_20171115_073326
+Grid scheduler:                 crab3@vocms0144.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133352%3Ashigginb_crab_20171115_073326
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133352%3Ashigginb_crab_20171115_073326
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF42/crab_20171115_073326/crab.log
+
+---------------------- VBF43/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF43/crab_20171115_073352
+Task name:                      171115_133418:shigginb_crab_20171115_073352
+Grid scheduler:                 crab3@vocms0120.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133418%3Ashigginb_crab_20171115_073352
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133418%3Ashigginb_crab_20171115_073352
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF43/crab_20171115_073352/crab.log
+
+---------------------- VBF44/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF44/crab_20171115_073419
+Task name:                      171115_133444:shigginb_crab_20171115_073419
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133444%3Ashigginb_crab_20171115_073419
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133444%3Ashigginb_crab_20171115_073419
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       80.0% (4/5)
+                                running        20.0% (1/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF44/crab_20171115_073419/crab.log
+
+---------------------- VBF45/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF45/crab_20171115_073445
+Task name:                      171115_133511:shigginb_crab_20171115_073445
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133511%3Ashigginb_crab_20171115_073445
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133511%3Ashigginb_crab_20171115_073445
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       91.7% (11/12)
+                                running         8.3% ( 1/12)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF45/crab_20171115_073445/crab.log
+
+---------------------- VBF46/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF46/crab_20171115_073511
+Task name:                      171115_133538:shigginb_crab_20171115_073511
+Grid scheduler:                 crab3@vocms0119.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133538%3Ashigginb_crab_20171115_073511
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133538%3Ashigginb_crab_20171115_073511
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (7/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF46/crab_20171115_073511/crab.log
+
+---------------------- VBF47/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF47/crab_20171115_073539
+Task name:                      171115_133606:shigginb_crab_20171115_073539
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133606%3Ashigginb_crab_20171115_073539
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133606%3Ashigginb_crab_20171115_073539
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF47/crab_20171115_073539/crab.log
+
+---------------------- VBF48/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF48/crab_20171115_073607
+Task name:                      171115_133633:shigginb_crab_20171115_073607
+Grid scheduler:                 crab3@vocms0106.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133633%3Ashigginb_crab_20171115_073607
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133633%3Ashigginb_crab_20171115_073607
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF48/crab_20171115_073607/crab.log
+
+---------------------- VBF49/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF49/crab_20171115_073633
+Task name:                      171115_133659:shigginb_crab_20171115_073633
+Grid scheduler:                 crab3@vocms0120.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133659%3Ashigginb_crab_20171115_073633
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133659%3Ashigginb_crab_20171115_073633
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF49/crab_20171115_073633/crab.log
+
+---------------------- VBF5/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF5/crab_20171115_073700
+Task name:                      171115_133728:shigginb_crab_20171115_073700
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133728%3Ashigginb_crab_20171115_073700
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133728%3Ashigginb_crab_20171115_073700
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       71.4% (10/14)
+                                running        28.6% ( 4/14)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF5/crab_20171115_073700/crab.log
+
+---------------------- VBF50/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF50/crab_20171115_073730
+Task name:                      171115_133757:shigginb_crab_20171115_073730
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133757%3Ashigginb_crab_20171115_073730
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133757%3Ashigginb_crab_20171115_073730
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       80.0% ( 8/10)
+                                running        20.0% ( 2/10)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF50/crab_20171115_073730/crab.log
+
+---------------------- VBF51/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF51/crab_20171115_073758
+Task name:                      171115_133825:shigginb_crab_20171115_073758
+Grid scheduler:                 crab3@vocms0196.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133825%3Ashigginb_crab_20171115_073758
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133825%3Ashigginb_crab_20171115_073758
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (5/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF51/crab_20171115_073758/crab.log
+
+---------------------- VBF52/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF52/crab_20171115_073826
+Task name:                      171115_133854:shigginb_crab_20171115_073826
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133854%3Ashigginb_crab_20171115_073826
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133854%3Ashigginb_crab_20171115_073826
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (6/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF52/crab_20171115_073826/crab.log
+
+---------------------- VBF53/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF53/crab_20171115_073856
+Task name:                      171115_133923:shigginb_crab_20171115_073856
+Grid scheduler:                 crab3@vocms0194.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133923%3Ashigginb_crab_20171115_073856
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133923%3Ashigginb_crab_20171115_073856
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       66.7% (6/9)
+                                running        33.3% (3/9)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF53/crab_20171115_073856/crab.log
+
+---------------------- VBF54/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF54/crab_20171115_073924
+Task name:                      171115_133953:shigginb_crab_20171115_073924
+Grid scheduler:                 crab3@vocms0195.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_133953%3Ashigginb_crab_20171115_073924
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_133953%3Ashigginb_crab_20171115_073924
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       87.5% (7/8)
+                                running        12.5% (1/8)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF54/crab_20171115_073924/crab.log
+
+---------------------- VBF55/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF55/crab_20171115_073954
+Task name:                      171115_134020:shigginb_crab_20171115_073954
+Grid scheduler:                 crab3@vocms0195.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134020%3Ashigginb_crab_20171115_073954
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134020%3Ashigginb_crab_20171115_073954
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       62.5% (5/8)
+                                running        37.5% (3/8)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF55/crab_20171115_073954/crab.log
+
+---------------------- VBF56/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF56/crab_20171115_074022
+Task name:                      171115_134048:shigginb_crab_20171115_074022
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134048%3Ashigginb_crab_20171115_074022
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134048%3Ashigginb_crab_20171115_074022
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       57.1% (4/7)
+                                running        42.9% (3/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF56/crab_20171115_074022/crab.log
+
+---------------------- VBF57/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF57/crab_20171115_074049
+Task name:                      171115_134113:shigginb_crab_20171115_074049
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134113%3Ashigginb_crab_20171115_074049
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134113%3Ashigginb_crab_20171115_074049
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       75.0% (3/4)
+                                transferring   25.0% (1/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF57/crab_20171115_074049/crab.log
+
+---------------------- VBF58/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF58/crab_20171115_074115
+Task name:                      171115_134143:shigginb_crab_20171115_074115
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134143%3Ashigginb_crab_20171115_074115
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134143%3Ashigginb_crab_20171115_074115
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (4/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF58/crab_20171115_074115/crab.log
+
+---------------------- VBF59/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF59/crab_20171115_074145
+Task name:                      171115_134213:shigginb_crab_20171115_074145
+Grid scheduler:                 crab3@vocms0106.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134213%3Ashigginb_crab_20171115_074145
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134213%3Ashigginb_crab_20171115_074145
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF59/crab_20171115_074145/crab.log
+
+---------------------- VBF6/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF6/crab_20171115_074214
+Task name:                      171115_134243:shigginb_crab_20171115_074214
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134243%3Ashigginb_crab_20171115_074214
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134243%3Ashigginb_crab_20171115_074214
+Status on the scheduler:        COMPLETED
+
+Jobs status:                    finished      100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF6/crab_20171115_074214/crab.log
+
+---------------------- VBF60/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF60/crab_20171115_074245
+Task name:                      171115_134315:shigginb_crab_20171115_074245
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134315%3Ashigginb_crab_20171115_074245
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /VBFToHHTo2B2G_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF60/crab_20171115_074245/crab.log
+
+---------------------- VBF61/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF61/crab_20171115_074315
+Task name:                      171115_134342:shigginb_crab_20171115_074315
+Grid scheduler:                 crab3@vocms0195.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134342%3Ashigginb_crab_20171115_074315
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134342%3Ashigginb_crab_20171115_074315
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       66.7% (4/6)
+                                running        33.3% (2/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF61/crab_20171115_074315/crab.log
+
+---------------------- VBF62/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF62/crab_20171115_074343
+Task name:                      171115_134412:shigginb_crab_20171115_074343
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134412%3Ashigginb_crab_20171115_074343
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134412%3Ashigginb_crab_20171115_074343
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       87.5% (7/8)
+                                running        12.5% (1/8)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF62/crab_20171115_074343/crab.log
+
+---------------------- VBF63/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF63/crab_20171115_074413
+Task name:                      171115_134440:shigginb_crab_20171115_074413
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134440%3Ashigginb_crab_20171115_074413
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /VBFToHHTo4B_SM_14TeV-madgraph-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF63/crab_20171115_074413/crab.log
+
+---------------------- VBF64/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF64/crab_20171115_074442
+Task name:                      171115_134506:shigginb_crab_20171115_074442
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134506%3Ashigginb_crab_20171115_074442
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /VBF_HToInvisible_M125_14TeV_powheg_pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF64/crab_20171115_074442/crab.log
+
+---------------------- VBF65/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF65/crab_20171115_074509
+Task name:                      171115_134535:shigginb_crab_20171115_074509
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134535%3Ashigginb_crab_20171115_074509
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134535%3Ashigginb_crab_20171115_074509
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       71.4% (5/7)
+                                running        28.6% (2/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF65/crab_20171115_074509/crab.log
+
+---------------------- VBF66/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF66/crab_20171115_074539
+Task name:                      171115_134615:shigginb_crab_20171115_074539
+Grid scheduler:                 crab3@vocms0199.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134615%3Ashigginb_crab_20171115_074539
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134615%3Ashigginb_crab_20171115_074539
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       60.0% (3/5)
+                                running        40.0% (2/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF66/crab_20171115_074539/crab.log
+
+---------------------- VBF67/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF67/crab_20171115_074616
+Task name:                      171115_134643:shigginb_crab_20171115_074616
+Grid scheduler:                 crab3@vocms0144.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134643%3Ashigginb_crab_20171115_074616
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134643%3Ashigginb_crab_20171115_074616
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       14.3% (1/7)
+                                running        85.7% (6/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF67/crab_20171115_074616/crab.log
+
+---------------------- VBF68/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF68/crab_20171115_074644
+Task name:                      171115_134714:shigginb_crab_20171115_074644
+Grid scheduler:                 crab3@vocms0196.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134714%3Ashigginb_crab_20171115_074644
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134714%3Ashigginb_crab_20171115_074644
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF68/crab_20171115_074644/crab.log
+
+---------------------- VBF69/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF69/crab_20171115_074715
+Task name:                      171115_134739:shigginb_crab_20171115_074715
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134739%3Ashigginb_crab_20171115_074715
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /WWG_TuneCUETP8M1_14TeV-amcatnlo-pythia8/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF69/crab_20171115_074715/crab.log
+
+---------------------- VBF7/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF7/crab_20171115_074740
+Task name:                      171115_134806:shigginb_crab_20171115_074740
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134806%3Ashigginb_crab_20171115_074740
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134806%3Ashigginb_crab_20171115_074740
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    idle          100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF7/crab_20171115_074740/crab.log
+
+---------------------- VBF70/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF70/crab_20171115_074808
+Task name:                      171115_134835:shigginb_crab_20171115_074808
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134835%3Ashigginb_crab_20171115_074808
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134835%3Ashigginb_crab_20171115_074808
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       20.0% (1/5)
+                                running        80.0% (4/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF70/crab_20171115_074808/crab.log
+
+---------------------- VBF71/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF71/crab_20171115_074841
+Task name:                      171115_134907:shigginb_crab_20171115_074841
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134907%3Ashigginb_crab_20171115_074841
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134907%3Ashigginb_crab_20171115_074841
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF71/crab_20171115_074841/crab.log
+
+---------------------- VBF72/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF72/crab_20171115_074915
+Task name:                      171115_134947:shigginb_crab_20171115_074915
+Grid scheduler:                 crab3@vocms0198.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_134947%3Ashigginb_crab_20171115_074915
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_134947%3Ashigginb_crab_20171115_074915
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       53.3% ( 8/15)
+                                running        46.7% ( 7/15)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF72/crab_20171115_074915/crab.log
+
+---------------------- VBF73/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF73/crab_20171115_074948
+Task name:                      171115_135014:shigginb_crab_20171115_074948
+Grid scheduler:                 crab3@vocms0119.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135014%3Ashigginb_crab_20171115_074948
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135014%3Ashigginb_crab_20171115_074948
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       33.3% (1/3)
+                                running        66.7% (2/3)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF73/crab_20171115_074948/crab.log
+
+---------------------- VBF74/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF74/crab_20171115_075015
+Task name:                      171115_135041:shigginb_crab_20171115_075015
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135041%3Ashigginb_crab_20171115_075015
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135041%3Ashigginb_crab_20171115_075015
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF74/crab_20171115_075015/crab.log
+
+---------------------- VBF75/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF75/crab_20171115_075041
+Task name:                      171115_135107:shigginb_crab_20171115_075041
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135107%3Ashigginb_crab_20171115_075041
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135107%3Ashigginb_crab_20171115_075041
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       75.0% (3/4)
+                                running        25.0% (1/4)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF75/crab_20171115_075041/crab.log
+
+---------------------- VBF76/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF76/crab_20171115_075113
+Task name:                      171115_135141:shigginb_crab_20171115_075113
+Grid scheduler:                 crab3@vocms0107.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135141%3Ashigginb_crab_20171115_075113
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135141%3Ashigginb_crab_20171115_075113
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       71.4% (5/7)
+                                running        28.6% (2/7)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF76/crab_20171115_075113/crab.log
+
+---------------------- VBF77/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF77/crab_20171115_075144
+Task name:                      171115_135213:shigginb_crab_20171115_075144
+Grid scheduler:                 crab3@vocms0155.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135213%3Ashigginb_crab_20171115_075144
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135213%3Ashigginb_crab_20171115_075144
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF77/crab_20171115_075144/crab.log
+
+---------------------- VBF78/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF78/crab_20171115_075214
+Task name:                      171115_135244:shigginb_crab_20171115_075214
+Status on the CRAB server:      SUBMITFAILED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135244%3Ashigginb_crab_20171115_075214
+Failure message from the server:                CRAB refuses to proceed in getting the details of the dataset /ZZTo4L_14TeV_powheg_pythia8_v2/PhaseIITDRFall17MiniAOD-PU200_93X_upgrade2023_realistic_v2-v1/MINIAODSIM from DBS, because the dataset is not 'VALID' but 'PRODUCTION'. To allow CRAB to consider a dataset that is not 'VALID', set Data.allowNonValidInputDataset = True in the CRAB configuration. Notice that this will not force CRAB to run over all files in the dataset; CRAB will still check if there are any valid files in the dataset and run only over those files.
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF78/crab_20171115_075214/crab.log
+
+---------------------- VBF79/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF79/crab_20171115_075245
+Task name:                      171115_135312:shigginb_crab_20171115_075245
+Grid scheduler:                 crab3@vocms0137.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135312%3Ashigginb_crab_20171115_075245
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135312%3Ashigginb_crab_20171115_075245
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       33.3% (2/6)
+                                running        66.7% (4/6)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF79/crab_20171115_075245/crab.log
+
+---------------------- VBF8/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF8/crab_20171115_075313
+Task name:                      171115_135338:shigginb_crab_20171115_075313
+Grid scheduler:                 crab3@vocms0119.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135338%3Ashigginb_crab_20171115_075313
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135338%3Ashigginb_crab_20171115_075313
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    finished       20.0% (1/5)
+                                running        80.0% (4/5)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF8/crab_20171115_075313/crab.log
+
+---------------------- VBF80/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF80/crab_20171115_075341
+Task name:                      171115_135405:shigginb_crab_20171115_075341
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135405%3Ashigginb_crab_20171115_075341
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135405%3Ashigginb_crab_20171115_075341
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (2/2)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF80/crab_20171115_075341/crab.log
+
+---------------------- VBF9/ -----------------------
+CRAB project directory:         /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF9/crab_20171115_075411
+Task name:                      171115_135436:shigginb_crab_20171115_075411
+Grid scheduler:                 crab3@vocms0197.cern.ch
+Status on the CRAB server:      SUBMITTED
+Task URL to use for HELP:       https://cmsweb.cern.ch/crabserver/ui/task/171115_135436%3Ashigginb_crab_20171115_075411
+Dashboard monitoring URL:       http://dashb-cms-job.cern.ch/dashboard/templates/task-analysis/#user=shigginb&refresh=0&table=Jobs&p=1&records=25&activemenu=2&status=&site=&tid=171115_135436%3Ashigginb_crab_20171115_075411
+Status on the scheduler:        SUBMITTED
+
+Jobs status:                    running       100.0% (1/1)
+
+No publication information (publication has been disabled in the CRAB configuration file)
+Log file is /uscms_data/d3/samuellh/WorkingArea/TauAnalysis/CMSSW_9_3_2/src/PUAnalysis/VBFtt2017/crab/VBF9/crab_20171115_075411/crab.log
+
